@@ -1,0 +1,44 @@
+# AI 图像生成器项目 - Git忽略文件
+
+# 日志和临时文件
+static/logs/*
+!static/logs/.gitkeep
+static/stats/usage_log.json
+
+# 系统和编辑器文件
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# PHP和Web相关
+/vendor/
+/node_modules/
+.env
+.env.local
+.env.*.local
+.htpasswd
+
+# 临时上传的图像和视频
+/uploads/
+/temp/
+
+# 编译文件
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# 压缩包
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip

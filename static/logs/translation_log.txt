@@ -1,0 +1,170 @@
+[2025-04-13 01:24:58] 中文 -> English
+Source: 可爱的
+Translation: Cute
+-------------------------------------------
+[2025-04-13 01:25:09] 中文 -> English
+Source: 可爱的猪
+Translation: Cute pig
+-------------------------------------------
+[2025-04-13 01:29:02] zh-CHS -> en
+Source: 可爱的猪，和可爱的狗
+Translation: Cute pigs and cute dogs
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:34:43] zh-CHS -> en
+Source: 清晨微光穿透晨雾，将湿润的露珠镀上金边。远处山峦被薄雾轻柔笼罩，蓝灰色的轮廓在渐变的天空下若隐若现。蜿蜒的溪流如流动的银带，倒映着岸边翠绿的垂柳，水面上漂浮的落叶随波纹缓缓晃动。浅滩处，鹅卵石表面的纹理清晰可见，水流冲刷出的青苔在石缝间蔓延。近处草地上，蒲公英绒球泛着柔和的米白色，草叶上的脉络纤毫毕现，几只蚂蚁正忙碌地穿梭其间。右侧古老的木桥横跨溪流，木板的裂纹、铁钉的锈迹，连同桥下漂浮的水草，都在诉说着岁月的故事。背景中散落的农舍，烟囱升起袅袅炊烟，与朦胧的远山、泛着淡粉的天际线，共同构成一幅静谧而生动的田园画卷。
+Translation: Golden-edged dewdrops glisten as the first light of dawn pierces the morning mist. Distant mountains, softly veiled in haze, reveal their blue-gray silhouettes beneath a gradient sky. A meandering stream, a flowing silver ribbon, mirrors the lush green willows along its banks, fallen leaves drifting gently on the rippling surface. In the shallows, the texture of pebbles is clearly visible, moss nurtured by the flowing water spreads through the crevices. Nearby, dandelion clocks in the meadow emit a soft, creamy glow, the veins on the blades of grass rendered in exquisite detail, busy ants navigating between them. To the right, an ancient wooden bridge spans the stream, the cracks in the planks, the rust on the nails, and the floating aquatic plants beneath all telling stories of the passage of time. Scattered farmhouses in the background, wisps of smoke rising from chimneys, join the misty distant mountains and the pale pink horizon to compose a tranquil yet vibrant pastoral scene.
+Model: anthropic/claude-3-opus:free
+Prompt Preview: ...
+-------------------------------------------
+[2025-04-13 01:35:00] zh-CHS -> en
+Source: 清晨微光穿透晨雾，将湿润的露珠镀上金边。远处山峦被薄雾轻柔笼罩，蓝灰色的轮廓在渐变的天空下若隐若现。蜿蜒的溪流如流动的银带，倒映着岸边翠绿的垂柳，水面上漂浮的落叶随波纹缓缓晃动。浅滩处，鹅卵石表面的纹理清晰可见，水流冲刷出的青苔在石缝间蔓延。近处草地上，蒲公英绒球泛着柔和的米白色，草叶上的脉络纤毫毕现，几只蚂蚁正忙碌地穿梭其间。右侧古老的木桥横跨溪流，木板的裂纹、铁钉的锈迹，连同桥下漂浮的水草，都在诉说着岁月的故事。背景中散落的农舍，烟囱升起袅袅炊烟，与朦胧的远山、泛着淡粉的天际线，共同构成一幅静谧而生动的田园画卷。
+Translation: Soft morning light pierces through the mist, gilding the dewy droplets with a golden edge. In the distance, rolling hills are gently veiled by a delicate haze, their blue-gray silhouettes fading in and out beneath the gradient sky. The meandering stream resembles a flowing silver ribbon, mirroring the lush green weeping willows along its banks, as fallen leaves drift lazily on the rippling surface. In the shallows, the texture of the pebbles is clearly visible, with moss nourished by the flowing water spreading through the crevices. Nearby, in the meadow, dandelion clocks emit a soft, creamy glow, the veins on the blades of grass intricately detailed, as ants busily navigate between them. To the right, an ancient wooden bridge spans the stream, the cracks in the planks and the rust on the iron nails, along with the floating aquatic plants beneath, all telling stories of the passage of time. Scattered farmhouses in the background, wisps of smoke rising from their chimneys, join with the hazy distant mountains and the pale pink horizon to create a tranquil yet vibrant pastoral scene.
+Model: anthropic/claude-3-opus:free
+Prompt Preview: ...
+-------------------------------------------
+[2025-04-13 01:35:21] zh-CHS -> en
+Source: 美丽的新娘子
+Translation: Here is the English translation of that Chinese image generation prompt:
+
+Beautiful bride
+Model: anthropic/claude-3-opus:free
+Prompt Preview: ...
+-------------------------------------------
+[2025-04-13 01:35:32] zh-CHS -> en
+Source: 美丽的新娘子
+Translation: Here is the English translation of that Chinese image generation prompt:
+
+Beautiful bride
+Model: anthropic/claude-3-opus:free
+Prompt Preview: ...
+-------------------------------------------
+[2025-04-13 01:35:58] zh-CHS -> en
+Source: 美丽的新娘子
+Translation: Here is the English translation of the Chinese prompt:
+
+Beautiful bride
+Model: anthropic/claude-3-opus:free
+Prompt Preview: ...
+-------------------------------------------
+[2025-04-13 01:38:52] zh-CHS -> en
+Source: 美丽的新娘子
+Translation: Here is the English translation for an AI image generation prompt:
+
+A stunning bride, radiant and glowing on her special day. Her elegant white gown flows gracefully, adorned with delicate lace and shimmering embellishments. A sheer veil cascades down her back, gently billowing in the soft breeze. Her hair is styled to perfection, with loose romantic curls framing her face. A dazzling smile lights up her features, eyes sparkling with joy and love. She holds a bouquet of fresh, fragrant flowers in her hands, a vibrant mix of colors and textures. The beautiful bride emanates pure happiness and grace, ready to embark on a new chapter in her life.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:39:46] zh-CHS -> en
+Source: 美丽的新娘子
+Translation: Here is the English translation for an AI image generation prompt:
+
+A stunning bride, radiant and glowing on her special day. She is the picture of elegance and grace, with an enchanting smile that lights up her face. Her wedding gown is a breathtaking masterpiece - an exquisite white dress that drapes perfectly over her curves, with intricate lace detailing and delicate embellishments that sparkle in the light. A sheer veil cascades down her back, floating gently in the breeze. Her hair is styled in soft, romantic waves adorned with fresh flowers that complement her bouquet of blooming roses and greenery. The bride's beauty is absolutely mesmerizing, capturing the joy, love, and promise of the momentous occasion.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:40:24] zh-CHS -> en
+Source: 帅气的帅哥
+Translation: A handsome, dashing man with striking good looks and an air of confidence.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:41:10] zh-CHS -> en
+Source: 帅气的帅哥
+Translation: A handsome, dashing man with striking good looks and an air of confidence.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:41:37] zh-CHS -> en
+Source: 清晨微光穿透晨雾，将湿润的露珠镀上金边。远处山峦被薄雾轻柔笼罩，蓝灰色的轮廓在渐变的天空下若隐若现。蜿蜒的溪流如流动的银带，倒映着岸边翠绿的垂柳，水面上漂浮的落叶随波纹缓缓晃动。浅滩处，鹅卵石表面的纹理清晰可见，水流冲刷出的青苔在石缝间蔓延。近处草地上，蒲公英绒球泛着柔和的米白色，草叶上的脉络纤毫毕现，几只蚂蚁正忙碌地穿梭其间。右侧古老的木桥横跨溪流，木板的裂纹、铁钉的锈迹，连同桥下漂浮的水草，都在诉说着岁月的故事。背景中散落的农舍，烟囱升起袅袅炊烟，与朦胧的远山、泛着淡粉的天际线，共同构成一幅静谧而生动的田园画卷。
+Translation: As the first light of dawn pierces through the morning mist, dewy droplets are gilded with a golden edge. In the distance, mountain ranges are gently veiled by a thin fog, their blue-gray silhouettes fading in and out beneath the gradient sky. The meandering stream resembles a flowing silver ribbon, mirroring the lush green weeping willows along its banks, while fallen leaves drift languidly upon the rippling surface. In the shallows, the texture of pebbles is clearly visible, with moss, nourished by the flowing water, spreading through the crevices. Nearby, in the meadow, dandelion clocks emit a soft, creamy white glow, the veins on the blades of grass exquisitely detailed, as a few ants busily shuttle among them. To the right, an ancient wooden bridge spans the stream, the cracks in its planks and the rust on its iron nails, along with the floating aquatic plants beneath, all whispering stories of the passage of time. Scattered farmhouses in the background send wisps of cooking smoke spiraling from their chimneys, joining with the hazy distant mountains and the pale pink horizon to compose a tranquil yet vibrant pastoral tableau.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:42:50] zh-CHS -> en
+Source: 清晨微光穿透晨雾，将湿润的露珠镀上金边
+Translation: Golden rays of early morning light pierce through the misty dawn, gilding the dewy droplets with a shimmering iridescence.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:44:02] zh-CHS -> en
+Source: 可爱的猪，和可爱的狗
+Translation: A cute pig and an adorable puppy, both full of charm and whimsy.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:48:54] zh-CHS -> en
+Source: 可爱的猪
+Translation: Adorable piglet
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:50:53] zh-CHS -> en
+Source: 我爱你
+Translation: I love you
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:52:12] zh-CHS -> en
+Source: 病弱攻的卖惨手册
+Translation: The Sickly Seme's Handbook for Heartrending Pathos
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:53:35] zh-CHS -> en
+Source: 两只狗在地上打斗
+Translation: Two dogs wrestling on the ground, their fur ruffled and teeth bared as they grapple with each other, rolling and tumbling across the earth in a fierce, primal battle for dominance, kicking up dust and debris in their wake, the air filled with the sounds of snarling and snapping jaws.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:56:21] zh-CHS -> en
+Source: 清晨微光穿透晨雾，将湿润的露珠镀上金边。远处山峦被薄雾轻柔笼罩，蓝灰色的轮廓在渐变的天空下若隐若现。蜿蜒的溪流如流动的银带，倒映着岸边翠绿的垂柳，水面上漂浮的落叶随波纹缓缓晃动。浅滩处，鹅卵石表面的纹理清晰可见，水流冲刷出的青苔在石缝间蔓延。近处草地上，蒲公英绒球泛着柔和的米白色，草叶上的脉络纤毫毕现，几只蚂蚁正忙碌地穿梭其间。右侧古老的木桥横跨溪流，木板的裂纹、铁钉的锈迹，连同桥下漂浮的水草，都在诉说着岁月的故事。背景中散落的农舍，烟囱升起袅袅炊烟，与朦胧的远山、泛着淡粉的天际线，共同构成一幅静谧而生动的田园画卷。
+Translation: As the first light of dawn pierces through the morning mist, dewy droplets are gilded with a golden edge. In the distance, mountain ranges are gently veiled by a thin fog, their blue-gray silhouettes fading in and out beneath the gradient sky. The meandering stream resembles a flowing silver ribbon, mirroring the lush green weeping willows along its banks, while fallen leaves drift languidly upon the rippling surface. In the shallows, the texture of the pebbles is clearly visible, with moss, nourished by the flowing water, spreading through the crevices. Nearby, in the meadow, dandelion clocks emit a soft, creamy white glow, the veins on the grass blades intricately detailed, as a few ants busily shuttle back and forth. To the right, an ancient wooden bridge spans the stream, the cracks in the planks and the rust on the iron nails, along with the floating aquatic plants beneath, all whispering tales of yesteryear. Scattered farmhouses dot the background, wisps of cooking smoke rising from their chimneys, merging with the hazy distant mountains and the pale pink horizon to compose a tranquil yet vibrant pastoral tableau.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:58:16] zh-CHS -> en
+Source: 今天开始做魔王[西幻]
+Translation: Here is the English translation for an AI image generation prompt:
+
+In a dark, foreboding realm, a new overlord rises to power, casting an ominous shadow across the land. This malevolent figure, clad in sinister armor adorned with wicked spikes and twisted thorns, sits upon a throne of blackened stone. Piercing eyes, glowing with an otherworldly crimson hue, survey the desolate landscape before them. A cruel smile plays upon their lips, revealing razor-sharp fangs that glint in the eerie light. In one hand, they wield a gnarled staff pulsing with ancient, malignant energy; in the other, a jagged sword forged from the depths of the abyss. As the new ruler of this accursed domain, they embody the very essence of evil, poised to unleash untold horrors upon the world of mortals. The reign of the dark lord has begun, marking the dawn of a grim new era in this gothic fantasy realm.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 02:31:13] zh -> en
+Source: 可爱的猪
+Translation: Lovely pig
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:34:46] zh -> en
+Source: 清晨微光穿透晨雾，将湿润的露珠镀上金边。远处山峦被薄雾轻柔笼罩，蓝灰色的轮廓在渐变的天空下若隐若现。蜿蜒的溪流如流动的银带，倒映着岸边翠绿的垂柳，水面上漂浮的落叶随波纹缓缓晃动。浅滩处，鹅卵石表面的纹理清晰可见，水流冲刷出的青苔在石缝间蔓延。近处草地上，蒲公英绒球泛着柔和的米白色，草叶上的脉络纤毫毕现，几只蚂蚁正忙碌地穿梭其间。右侧古老的木桥横跨溪流，木板的裂纹、铁钉的锈迹，连同桥下漂浮的水草，都在诉说着岁月的故事。背景中散落的农舍，烟囱升起袅袅炊烟，与朦胧的远山、泛着淡粉的天际线，共同构成一幅静谧而生动的田园画卷。
+Translation: The early morning light penetrates the morning fog, plating the moist dewdrops on the gold line. The mountains in the distance are gently shrouded in mist, and the blue-gray outline is looming under the gradual sky. The winding stream is like a flowing silver belt, reflecting the green weeping willows on the shore, and the fallen leaves floating on the water slowly sway with the ripples. At the shoal, the texture on the surface of the cobblestones is clearly visible, and moss washed out by the water spreads between the rocks. On the nearby grass, dandelion pompoms are soft off-white, and the veins on the grass are clearly visible, and several ants are busy shuttling between them. The ancient wooden bridge on the right spans the stream. The cracks in the wooden boards, the rust of the nails, and the water plants floating under the bridge tell the story of the years. The farmhouses scattered in the background, and the chimneys rising curling smoke, together with the hazy distant mountains and the pale pink skyline, form a quiet and vivid pastoral picture.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:48:33] zh -> en
+Source: 可爱的小猪
+Translation: cute little pig
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:48:46] zh -> en
+Source: 可爱的小猪
+Translation: cute little pig
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:53:09] zh -> en
+Source: 沪上人家
+Translation: Shangrenjia
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:57:31] zh -> en
+Source: 发尾一点绿，眼睛幽绿，精致的面容。看上去有些清冷又妖艳。
+Translation: Her hair is a little green, her eyes are green, and her face is exquisite. It looked a little cold and charming.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:58:09] zh -> en
+Source: 发尾一点绿，眼睛幽绿，精致的面容。看上去有些清冷又妖艳。男生
+Translation: Her hair is a little green, her eyes are green, and her face is exquisite. It looked a little cold and charming. boys
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:58:36] zh -> en
+Source: 发尾一点绿，眼睛幽绿，精致的面容。看上去有些清冷又妖艳。男生
+Translation: Her hair is a little green, her eyes are green, and her face is exquisite. It looked a little cold and charming. boys
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:59:35] zh -> en
+Source: 发尾一点绿，眼睛幽绿，精致的面容。看上去有些清冷又妖艳。男生头发偏长。身形偏瘦，肤白貌美
+Translation: Her hair is a little green, her eyes are green, and her face is exquisite. It looked a little cold and charming. The boy's hair is long. Thin body, fair and beautiful skin
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 03:01:24] zh -> en
+Source: 黑色的头发，发尾带一点绿，眼睛幽绿，精致的面容。看上去有些清冷又妖艳。男生头发偏长。身形偏瘦，肤白貌美
+Translation: Black hair, a touch of green at the end, dark green eyes, and a delicate face. It looked a little cold and charming. The boy's hair is long. Thin body, fair and beautiful skin
+Provider: tencent_translate
+-------------------------------------------

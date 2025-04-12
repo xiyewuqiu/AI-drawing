@@ -1,0 +1,55 @@
+# 启用重写引擎
+RewriteEngine On
+
+# 设置基础路径
+RewriteBase /
+
+# 禁止访问敏感目录和文件
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# 禁止访问特定文件类型
+<FilesMatch "\.(json|log|ini|htaccess|htpasswd)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# 排除API目录和静态资源
+RewriteRule ^api/ - [L]
+RewriteRule ^static/ - [L]
+
+# 设置安全标头
+<IfModule mod_headers.c>
+    Header set X-XSS-Protection "1; mode=block"
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+    Header set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; img-src 'self' data: https:; font-src 'self' https://cdn.jsdelivr.net; connect-src 'self' https://openapi.youdao.com https://fal.run;"
+</IfModule>
+
+# 启用CORS
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+</IfModule>
+
+# 设置缓存控制
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresDefault "access plus 1 month"
+    ExpiresByType text/css "access plus 1 year"
+    ExpiresByType text/javascript "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+</IfModule>
+
+# 压缩文本文件
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>
+
+# 将404错误重定向到自定义页面
+ErrorDocument 404 /404.html 

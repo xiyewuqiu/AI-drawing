@@ -1,0 +1,492 @@
+:root {
+    --primary-color: #4e95f7;
+    --primary-hover: #3a7bd5;
+    --success-color: #00c28e;
+    --success-hover: #00a579;
+    --warning-color: #ff9800;
+    --warning-hover: #e68a00;
+    --info-color: #17a2b8;
+    --info-hover: #138496;
+    --dark-bg: #212529;
+    --darker-bg: #121416;
+    --border-color: #444444;
+    --text-color: #f8f9fa;
+    --text-secondary: #d1d3d6;
+    --highlight-bg: #2b5592;
+    --recraft-color: #bb54d3;
+    --button-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    --card-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    --input-focus-shadow: 0 0 0 3px rgba(78, 149, 247, 0.3);
+}
+
+body {
+    background-color: var(--dark-bg);
+    color: var(--text-color);
+    font-family: 'Microsoft YaHei', '微软雅黑', Arial, sans-serif;
+    line-height: 1.6;
+    transition: background-color 0.3s ease;
+}
+
+.app-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+.app-title {
+    font-size: 36px;
+    font-weight: bold;
+    color: var(--primary-color);
+    text-align: center;
+    margin-bottom: 5px;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.app-subtitle {
+    font-size: 18px;
+    color: var(--text-secondary);
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.form-control, .form-select {
+    background-color: var(--darker-bg);
+    border: 1px solid var(--border-color);
+    color: var(--text-color);
+    border-radius: 8px;
+    padding: 12px;
+    transition: all 0.3s ease;
+    font-size: 15px;
+}
+
+.form-control:focus, .form-select:focus {
+    background-color: var(--darker-bg);
+    border-color: var(--primary-color);
+    box-shadow: var(--input-focus-shadow);
+    color: var(--text-color);
+}
+
+.btn {
+    border-radius: 8px;
+    padding: 10px 16px;
+    transition: all 0.3s ease;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    box-shadow: var(--button-shadow);
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.btn:active {
+    transform: translateY(0);
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    border: none;
+    font-weight: bold;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+    background-color: var(--primary-hover);
+}
+
+.btn-success {
+    background-color: var(--success-color);
+    border: none;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.btn-success:hover, .btn-success:focus {
+    background-color: var(--success-hover);
+}
+
+.btn-warning {
+    background-color: var(--warning-color);
+    border: none;
+    font-weight: bold;
+    font-size: 16px;
+    color: #212529;
+}
+
+.btn-warning:hover, .btn-warning:focus {
+    background-color: var(--warning-hover);
+    color: #212529;
+}
+
+.btn-info {
+    background-color: var(--info-color);
+    border: none;
+    font-weight: bold;
+}
+
+.btn-info:hover, .btn-info:focus {
+    background-color: var(--info-hover);
+}
+
+.image-container, .video-container {
+    background-color: var(--darker-bg);
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 400px;
+    box-shadow: var(--card-shadow);
+    transition: all 0.3s ease;
+}
+
+.image-container:hover, .video-container:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.image-placeholder {
+    color: var(--text-secondary);
+    font-size: 18px;
+    text-align: center;
+    opacity: 0.8;
+}
+
+.image-display img {
+    max-width: 100%;
+    max-height: 70vh;
+    border-radius: 8px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.model-info {
+    cursor: help;
+    color: var(--primary-color);
+    font-size: 18px;
+}
+
+.card {
+    background-color: #292d31;
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: var(--card-shadow);
+    transition: all 0.3s ease;
+    margin-bottom: 20px;
+}
+
+.card:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.card-header {
+    background-color: #353a40;
+    border-bottom: 1px solid var(--border-color);
+    color: var(--primary-color);
+    font-weight: bold;
+    font-size: 18px;
+    padding: 12px 16px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.history-item {
+    background-color: #2c3137;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.history-item:hover {
+    background-color: #363c44;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.history-item.selected {
+    background-color: var(--highlight-bg);
+    border-color: var(--primary-color);
+}
+
+.history-img-container {
+    min-width: 80px;
+    max-width: 120px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.history-img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+    object-fit: cover;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.nav-tabs {
+    border-bottom: 1px solid var(--border-color);
+}
+
+.nav-tabs .nav-link {
+    color: var(--text-secondary);
+    background-color: #2d3238;
+    border: 1px solid var(--border-color);
+    border-radius: 8px 8px 0 0;
+    padding: 10px 16px;
+    margin-right: 4px;
+    transition: all 0.3s ease;
+}
+
+.nav-tabs .nav-link:hover {
+    background-color: #363b42;
+    color: var(--text-color);
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #1e2124;
+    color: var(--primary-color);
+    border-bottom-color: #1e2124;
+    font-weight: bold;
+}
+
+.form-label {
+    font-weight: bold;
+    color: var(--primary-color);
+    margin-bottom: 8px;
+    font-size: 15px;
+}
+
+.form-select option[value="fal-ai/recraft-v3"] {
+    background-color: var(--darker-bg);
+    color: var(--recraft-color);
+    font-weight: bold;
+}
+
+.text-muted small {
+    font-size: 85%;
+    opacity: 0.9;
+    color: var(--text-secondary);
+}
+
+@media (max-width: 768px) {
+    .app-container {
+        padding: 15px;
+    }
+    
+    .row {
+        flex-direction: column;
+    }
+    
+    .col-md-5, .col-md-7 {
+        width: 100%;
+    }
+    
+    .image-container {
+        min-height: 300px;
+    }
+    
+    .image-display img {
+        max-height: 50vh;
+    }
+    
+    .btn {
+        padding: 10px 14px;
+        font-size: 15px;
+    }
+    
+    .app-title {
+        font-size: 28px;
+    }
+    
+    .app-subtitle {
+        font-size: 16px;
+    }
+}
+
+.progress {
+    height: 25px;
+    background-color: var(--darker-bg);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.progress-bar {
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    font-weight: bold;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.form-range {
+    height: 8px;
+    background: var(--darker-bg);
+}
+
+.form-range::-webkit-slider-thumb {
+    background: var(--primary-color);
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.form-range::-webkit-slider-thumb:hover {
+    background: var(--primary-hover);
+    transform: scale(1.1);
+}
+
+.alert-danger {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    color: var(--text-secondary);
+    padding: 20px 0;
+    border-top: 1px solid var(--border-color);
+    margin-top: 40px;
+}
+
+.fade-enter-active, .fade-leave-active {
+    transition: opacity 0.5s;
+}
+.fade-enter, .fade-leave-to {
+    opacity: 0;
+}
+
+/* 生成的图像和视频样式 */
+.generated-image, .generated-video {
+    max-width: 100%;
+    max-height: 70vh;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.generated-image:hover, .generated-video:hover {
+    transform: scale(1.01);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+}
+
+/* 视频控制卡片样式 */
+.video-control-card {
+    border: none;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+}
+
+.video-control-card:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.video-control-card .card-header {
+    background: linear-gradient(135deg, #17a2b8 0%, #138496 100%);
+    border-radius: 12px 12px 0 0;
+    padding: 15px;
+}
+
+/* 参数卡片样式 */
+.parameter-card {
+    border: none;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+}
+
+.parameter-card .card-header {
+    background: linear-gradient(135deg, #353a40 0%, #2c3136 100%);
+    padding: 12px 18px;
+}
+
+/* 徽章样式 */
+.badge {
+    padding: 5px 8px;
+    font-weight: 600;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+/* 警告框样式 */
+.alert {
+    border-radius: 8px;
+    border: none;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.alert-info {
+    background-color: rgba(23, 162, 184, 0.15);
+    color: #d1d3d6;
+    border-left: 4px solid #17a2b8;
+}
+
+/* 表格导航样式优化 */
+.nav-tabs .nav-link {
+    padding: 12px 20px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.nav-tabs .nav-link.active {
+    font-weight: 600;
+    transform: translateY(-3px);
+}
+
+/* 页脚样式美化 */
+footer {
+    color: var(--text-secondary);
+    padding: 25px 0;
+    border-top: 1px solid var(--border-color);
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+/* 文本输入框美化 */
+textarea.form-control {
+    resize: none;
+    transition: height 0.3s ease;
+}
+
+textarea.form-control:focus {
+    height: 130px;
+}
+
+/* 输入区域的增强样式 */
+#promptInput, #translationResult {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+#translationResult {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-left: 4px solid var(--success-color);
+}
+
+/* 滚动条美化 */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--darker-bg);
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--primary-color);
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--primary-hover);
+} 

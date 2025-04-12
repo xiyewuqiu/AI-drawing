@@ -2,7 +2,7 @@
 
 基于Vue.js和PHP的高级AI图像生成器网站，使用fal.ai API实现图像生成功能，并支持图像转视频和直接文本到视频生成。部署在域名`my.djxs.xyz`上。
 
-![AI图像生成器界面](static/img/screenshot.png)
+<!-- 项目截图将在未来添加 -->
 
 ## 主要功能
 

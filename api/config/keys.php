@@ -19,8 +19,8 @@ $HIDREAM_API_KEYS = $COMMON_API_KEYS;
 // 翻译API密钥（单独保留）
 $TRANSLATION_API_KEYS = [
     'tencent' => [
-        'secret_id' => 'AKIDgMOHyRhu2xhS0KQK1VmrjOr69zc2NVP6', 
-        'secret_key' => 'XrxqVwAF7mMjtqa6PUM1SgiW6SaUDk8I'
+        'secret_id' => '自己去腾讯申请吧', 
+        'secret_key' => '我公开，腾讯一直给我打电话'
     ],
     // 这里可以添加其他翻译服务的API密钥
 ];

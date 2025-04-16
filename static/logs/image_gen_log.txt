@@ -1,0 +1,4 @@
+2025-04-13 13:13:36 | Model: fal-ai/flux/dev | Request: {"input":{"prompt":"cute little pig","image_size":"square_hd","num_inference_steps":20,"guidance_scale":3.5,"num_images":1,"enable_safety_checker":true}}
+2025-04-13 13:13:41 | Model: fal-ai/recraft-v3 | Request: {"prompt":"Double, chestnut hair boy, black hair boy, height difference, ancient costume, ponytail, double male","image_size":"square_hd","style":"digital_illustration"}
+2025-04-13 13:14:17 | Model: fal-ai/recraft-v3 | Request: {"prompt":"Double, chestnut hair boy, black hair boy, height difference, ancient costume, ponytail, double male","image_size":"square_hd","style":"realistic_image"}
+2025-04-13 13:14:39 | Model: fal-ai/recraft-v3 | Request: {"prompt":"Double, chestnut hair boy, black hair boy, height difference, ancient costume, ponytail, double male","image_size":"square_hd","style":"vector_illustration"}

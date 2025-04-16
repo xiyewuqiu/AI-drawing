@@ -1,0 +1,1391 @@
+[2025-04-13 01:24:58] 中文 -> English
+Source: 可爱的
+Translation: Cute
+-------------------------------------------
+[2025-04-13 01:25:09] 中文 -> English
+Source: 可爱的猪
+Translation: Cute pig
+-------------------------------------------
+[2025-04-13 01:29:02] zh-CHS -> en
+Source: 可爱的猪，和可爱的狗
+Translation: Cute pigs and cute dogs
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:34:43] zh-CHS -> en
+Source: 清晨微光穿透晨雾，将湿润的露珠镀上金边。远处山峦被薄雾轻柔笼罩，蓝灰色的轮廓在渐变的天空下若隐若现。蜿蜒的溪流如流动的银带，倒映着岸边翠绿的垂柳，水面上漂浮的落叶随波纹缓缓晃动。浅滩处，鹅卵石表面的纹理清晰可见，水流冲刷出的青苔在石缝间蔓延。近处草地上，蒲公英绒球泛着柔和的米白色，草叶上的脉络纤毫毕现，几只蚂蚁正忙碌地穿梭其间。右侧古老的木桥横跨溪流，木板的裂纹、铁钉的锈迹，连同桥下漂浮的水草，都在诉说着岁月的故事。背景中散落的农舍，烟囱升起袅袅炊烟，与朦胧的远山、泛着淡粉的天际线，共同构成一幅静谧而生动的田园画卷。
+Translation: Golden-edged dewdrops glisten as the first light of dawn pierces the morning mist. Distant mountains, softly veiled in haze, reveal their blue-gray silhouettes beneath a gradient sky. A meandering stream, a flowing silver ribbon, mirrors the lush green willows along its banks, fallen leaves drifting gently on the rippling surface. In the shallows, the texture of pebbles is clearly visible, moss nurtured by the flowing water spreads through the crevices. Nearby, dandelion clocks in the meadow emit a soft, creamy glow, the veins on the blades of grass rendered in exquisite detail, busy ants navigating between them. To the right, an ancient wooden bridge spans the stream, the cracks in the planks, the rust on the nails, and the floating aquatic plants beneath all telling stories of the passage of time. Scattered farmhouses in the background, wisps of smoke rising from chimneys, join the misty distant mountains and the pale pink horizon to compose a tranquil yet vibrant pastoral scene.
+Model: anthropic/claude-3-opus:free
+Prompt Preview: ...
+-------------------------------------------
+[2025-04-13 01:35:00] zh-CHS -> en
+Source: 清晨微光穿透晨雾，将湿润的露珠镀上金边。远处山峦被薄雾轻柔笼罩，蓝灰色的轮廓在渐变的天空下若隐若现。蜿蜒的溪流如流动的银带，倒映着岸边翠绿的垂柳，水面上漂浮的落叶随波纹缓缓晃动。浅滩处，鹅卵石表面的纹理清晰可见，水流冲刷出的青苔在石缝间蔓延。近处草地上，蒲公英绒球泛着柔和的米白色，草叶上的脉络纤毫毕现，几只蚂蚁正忙碌地穿梭其间。右侧古老的木桥横跨溪流，木板的裂纹、铁钉的锈迹，连同桥下漂浮的水草，都在诉说着岁月的故事。背景中散落的农舍，烟囱升起袅袅炊烟，与朦胧的远山、泛着淡粉的天际线，共同构成一幅静谧而生动的田园画卷。
+Translation: Soft morning light pierces through the mist, gilding the dewy droplets with a golden edge. In the distance, rolling hills are gently veiled by a delicate haze, their blue-gray silhouettes fading in and out beneath the gradient sky. The meandering stream resembles a flowing silver ribbon, mirroring the lush green weeping willows along its banks, as fallen leaves drift lazily on the rippling surface. In the shallows, the texture of the pebbles is clearly visible, with moss nourished by the flowing water spreading through the crevices. Nearby, in the meadow, dandelion clocks emit a soft, creamy glow, the veins on the blades of grass intricately detailed, as ants busily navigate between them. To the right, an ancient wooden bridge spans the stream, the cracks in the planks and the rust on the iron nails, along with the floating aquatic plants beneath, all telling stories of the passage of time. Scattered farmhouses in the background, wisps of smoke rising from their chimneys, join with the hazy distant mountains and the pale pink horizon to create a tranquil yet vibrant pastoral scene.
+Model: anthropic/claude-3-opus:free
+Prompt Preview: ...
+-------------------------------------------
+[2025-04-13 01:35:21] zh-CHS -> en
+Source: 美丽的新娘子
+Translation: Here is the English translation of that Chinese image generation prompt:
+
+Beautiful bride
+Model: anthropic/claude-3-opus:free
+Prompt Preview: ...
+-------------------------------------------
+[2025-04-13 01:35:32] zh-CHS -> en
+Source: 美丽的新娘子
+Translation: Here is the English translation of that Chinese image generation prompt:
+
+Beautiful bride
+Model: anthropic/claude-3-opus:free
+Prompt Preview: ...
+-------------------------------------------
+[2025-04-13 01:35:58] zh-CHS -> en
+Source: 美丽的新娘子
+Translation: Here is the English translation of the Chinese prompt:
+
+Beautiful bride
+Model: anthropic/claude-3-opus:free
+Prompt Preview: ...
+-------------------------------------------
+[2025-04-13 01:38:52] zh-CHS -> en
+Source: 美丽的新娘子
+Translation: Here is the English translation for an AI image generation prompt:
+
+A stunning bride, radiant and glowing on her special day. Her elegant white gown flows gracefully, adorned with delicate lace and shimmering embellishments. A sheer veil cascades down her back, gently billowing in the soft breeze. Her hair is styled to perfection, with loose romantic curls framing her face. A dazzling smile lights up her features, eyes sparkling with joy and love. She holds a bouquet of fresh, fragrant flowers in her hands, a vibrant mix of colors and textures. The beautiful bride emanates pure happiness and grace, ready to embark on a new chapter in her life.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:39:46] zh-CHS -> en
+Source: 美丽的新娘子
+Translation: Here is the English translation for an AI image generation prompt:
+
+A stunning bride, radiant and glowing on her special day. She is the picture of elegance and grace, with an enchanting smile that lights up her face. Her wedding gown is a breathtaking masterpiece - an exquisite white dress that drapes perfectly over her curves, with intricate lace detailing and delicate embellishments that sparkle in the light. A sheer veil cascades down her back, floating gently in the breeze. Her hair is styled in soft, romantic waves adorned with fresh flowers that complement her bouquet of blooming roses and greenery. The bride's beauty is absolutely mesmerizing, capturing the joy, love, and promise of the momentous occasion.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:40:24] zh-CHS -> en
+Source: 帅气的帅哥
+Translation: A handsome, dashing man with striking good looks and an air of confidence.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:41:10] zh-CHS -> en
+Source: 帅气的帅哥
+Translation: A handsome, dashing man with striking good looks and an air of confidence.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:41:37] zh-CHS -> en
+Source: 清晨微光穿透晨雾，将湿润的露珠镀上金边。远处山峦被薄雾轻柔笼罩，蓝灰色的轮廓在渐变的天空下若隐若现。蜿蜒的溪流如流动的银带，倒映着岸边翠绿的垂柳，水面上漂浮的落叶随波纹缓缓晃动。浅滩处，鹅卵石表面的纹理清晰可见，水流冲刷出的青苔在石缝间蔓延。近处草地上，蒲公英绒球泛着柔和的米白色，草叶上的脉络纤毫毕现，几只蚂蚁正忙碌地穿梭其间。右侧古老的木桥横跨溪流，木板的裂纹、铁钉的锈迹，连同桥下漂浮的水草，都在诉说着岁月的故事。背景中散落的农舍，烟囱升起袅袅炊烟，与朦胧的远山、泛着淡粉的天际线，共同构成一幅静谧而生动的田园画卷。
+Translation: As the first light of dawn pierces through the morning mist, dewy droplets are gilded with a golden edge. In the distance, mountain ranges are gently veiled by a thin fog, their blue-gray silhouettes fading in and out beneath the gradient sky. The meandering stream resembles a flowing silver ribbon, mirroring the lush green weeping willows along its banks, while fallen leaves drift languidly upon the rippling surface. In the shallows, the texture of pebbles is clearly visible, with moss, nourished by the flowing water, spreading through the crevices. Nearby, in the meadow, dandelion clocks emit a soft, creamy white glow, the veins on the blades of grass exquisitely detailed, as a few ants busily shuttle among them. To the right, an ancient wooden bridge spans the stream, the cracks in its planks and the rust on its iron nails, along with the floating aquatic plants beneath, all whispering stories of the passage of time. Scattered farmhouses in the background send wisps of cooking smoke spiraling from their chimneys, joining with the hazy distant mountains and the pale pink horizon to compose a tranquil yet vibrant pastoral tableau.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:42:50] zh-CHS -> en
+Source: 清晨微光穿透晨雾，将湿润的露珠镀上金边
+Translation: Golden rays of early morning light pierce through the misty dawn, gilding the dewy droplets with a shimmering iridescence.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:44:02] zh-CHS -> en
+Source: 可爱的猪，和可爱的狗
+Translation: A cute pig and an adorable puppy, both full of charm and whimsy.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:48:54] zh-CHS -> en
+Source: 可爱的猪
+Translation: Adorable piglet
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:50:53] zh-CHS -> en
+Source: 我爱你
+Translation: I love you
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:52:12] zh-CHS -> en
+Source: 病弱攻的卖惨手册
+Translation: The Sickly Seme's Handbook for Heartrending Pathos
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:53:35] zh-CHS -> en
+Source: 两只狗在地上打斗
+Translation: Two dogs wrestling on the ground, their fur ruffled and teeth bared as they grapple with each other, rolling and tumbling across the earth in a fierce, primal battle for dominance, kicking up dust and debris in their wake, the air filled with the sounds of snarling and snapping jaws.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:56:21] zh-CHS -> en
+Source: 清晨微光穿透晨雾，将湿润的露珠镀上金边。远处山峦被薄雾轻柔笼罩，蓝灰色的轮廓在渐变的天空下若隐若现。蜿蜒的溪流如流动的银带，倒映着岸边翠绿的垂柳，水面上漂浮的落叶随波纹缓缓晃动。浅滩处，鹅卵石表面的纹理清晰可见，水流冲刷出的青苔在石缝间蔓延。近处草地上，蒲公英绒球泛着柔和的米白色，草叶上的脉络纤毫毕现，几只蚂蚁正忙碌地穿梭其间。右侧古老的木桥横跨溪流，木板的裂纹、铁钉的锈迹，连同桥下漂浮的水草，都在诉说着岁月的故事。背景中散落的农舍，烟囱升起袅袅炊烟，与朦胧的远山、泛着淡粉的天际线，共同构成一幅静谧而生动的田园画卷。
+Translation: As the first light of dawn pierces through the morning mist, dewy droplets are gilded with a golden edge. In the distance, mountain ranges are gently veiled by a thin fog, their blue-gray silhouettes fading in and out beneath the gradient sky. The meandering stream resembles a flowing silver ribbon, mirroring the lush green weeping willows along its banks, while fallen leaves drift languidly upon the rippling surface. In the shallows, the texture of the pebbles is clearly visible, with moss, nourished by the flowing water, spreading through the crevices. Nearby, in the meadow, dandelion clocks emit a soft, creamy white glow, the veins on the grass blades intricately detailed, as a few ants busily shuttle back and forth. To the right, an ancient wooden bridge spans the stream, the cracks in the planks and the rust on the iron nails, along with the floating aquatic plants beneath, all whispering tales of yesteryear. Scattered farmhouses dot the background, wisps of cooking smoke rising from their chimneys, merging with the hazy distant mountains and the pale pink horizon to compose a tranquil yet vibrant pastoral tableau.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 01:58:16] zh-CHS -> en
+Source: 今天开始做魔王[西幻]
+Translation: Here is the English translation for an AI image generation prompt:
+
+In a dark, foreboding realm, a new overlord rises to power, casting an ominous shadow across the land. This malevolent figure, clad in sinister armor adorned with wicked spikes and twisted thorns, sits upon a throne of blackened stone. Piercing eyes, glowing with an otherworldly crimson hue, survey the desolate landscape before them. A cruel smile plays upon their lips, revealing razor-sharp fangs that glint in the eerie light. In one hand, they wield a gnarled staff pulsing with ancient, malignant energy; in the other, a jagged sword forged from the depths of the abyss. As the new ruler of this accursed domain, they embody the very essence of evil, poised to unleash untold horrors upon the world of mortals. The reign of the dark lord has begun, marking the dawn of a grim new era in this gothic fantasy realm.
+Model: anthropic/claude-3-opus:free
+-------------------------------------------
+[2025-04-13 02:31:13] zh -> en
+Source: 可爱的猪
+Translation: Lovely pig
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:34:46] zh -> en
+Source: 清晨微光穿透晨雾，将湿润的露珠镀上金边。远处山峦被薄雾轻柔笼罩，蓝灰色的轮廓在渐变的天空下若隐若现。蜿蜒的溪流如流动的银带，倒映着岸边翠绿的垂柳，水面上漂浮的落叶随波纹缓缓晃动。浅滩处，鹅卵石表面的纹理清晰可见，水流冲刷出的青苔在石缝间蔓延。近处草地上，蒲公英绒球泛着柔和的米白色，草叶上的脉络纤毫毕现，几只蚂蚁正忙碌地穿梭其间。右侧古老的木桥横跨溪流，木板的裂纹、铁钉的锈迹，连同桥下漂浮的水草，都在诉说着岁月的故事。背景中散落的农舍，烟囱升起袅袅炊烟，与朦胧的远山、泛着淡粉的天际线，共同构成一幅静谧而生动的田园画卷。
+Translation: The early morning light penetrates the morning fog, plating the moist dewdrops on the gold line. The mountains in the distance are gently shrouded in mist, and the blue-gray outline is looming under the gradual sky. The winding stream is like a flowing silver belt, reflecting the green weeping willows on the shore, and the fallen leaves floating on the water slowly sway with the ripples. At the shoal, the texture on the surface of the cobblestones is clearly visible, and moss washed out by the water spreads between the rocks. On the nearby grass, dandelion pompoms are soft off-white, and the veins on the grass are clearly visible, and several ants are busy shuttling between them. The ancient wooden bridge on the right spans the stream. The cracks in the wooden boards, the rust of the nails, and the water plants floating under the bridge tell the story of the years. The farmhouses scattered in the background, and the chimneys rising curling smoke, together with the hazy distant mountains and the pale pink skyline, form a quiet and vivid pastoral picture.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:48:33] zh -> en
+Source: 可爱的小猪
+Translation: cute little pig
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:48:46] zh -> en
+Source: 可爱的小猪
+Translation: cute little pig
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:53:09] zh -> en
+Source: 沪上人家
+Translation: Shangrenjia
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:57:31] zh -> en
+Source: 发尾一点绿，眼睛幽绿，精致的面容。看上去有些清冷又妖艳。
+Translation: Her hair is a little green, her eyes are green, and her face is exquisite. It looked a little cold and charming.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:58:09] zh -> en
+Source: 发尾一点绿，眼睛幽绿，精致的面容。看上去有些清冷又妖艳。男生
+Translation: Her hair is a little green, her eyes are green, and her face is exquisite. It looked a little cold and charming. boys
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:58:36] zh -> en
+Source: 发尾一点绿，眼睛幽绿，精致的面容。看上去有些清冷又妖艳。男生
+Translation: Her hair is a little green, her eyes are green, and her face is exquisite. It looked a little cold and charming. boys
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 02:59:35] zh -> en
+Source: 发尾一点绿，眼睛幽绿，精致的面容。看上去有些清冷又妖艳。男生头发偏长。身形偏瘦，肤白貌美
+Translation: Her hair is a little green, her eyes are green, and her face is exquisite. It looked a little cold and charming. The boy's hair is long. Thin body, fair and beautiful skin
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 03:01:24] zh -> en
+Source: 黑色的头发，发尾带一点绿，眼睛幽绿，精致的面容。看上去有些清冷又妖艳。男生头发偏长。身形偏瘦，肤白貌美
+Translation: Black hair, a touch of green at the end, dark green eyes, and a delicate face. It looked a little cold and charming. The boy's hair is long. Thin body, fair and beautiful skin
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 03:03:24] zh -> en
+Source: 中国风古代，微风飘动他的发丝，黑色的头发，发尾带一点绿，眼睛幽绿，精致的面容。看上去有些清冷又妖艳。男生头发偏长。身形偏瘦，肤白貌美
+Translation: In ancient times of China, the breeze fluttered his hair, black hair, a little green at the end, dark green eyes, and exquisite face. It looked a little cold and charming. The boy's hair is long. Thin body, fair and beautiful skin
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 03:10:35] zh -> en
+Source: 综漫
+Translation: Zongman
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 03:12:49] zh -> en
+Source: 群穿赛博，正派就剩我了？
+Translation: The group breaks through cyber, and I am the only decent person left?
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 03:14:58] zh -> en
+Source: 我会从面部特征、着装搭配、肢体动作、背景氛围等方面，用充满科技感和潮流感的词汇，来描述赛博风格的帅哥照片：
+他的面庞，像是被赛博世界的光影精心雕琢。高挺鼻梁在幽蓝镭射灯下，勾勒出硬朗线条。眼眸仿若藏着数据代码，深邃又神秘，闪烁着赛博霓虹般的冷冽光芒，透着对周遭一切满不在乎的疏离。
+ 
+他身着金属质感风衣，流线型的设计紧贴身形，随着他的动作，反射出迷幻的电子光纹。风衣下，是一件镶嵌着微型发光模块的黑色修身背心，模块如跳动的像素，不规则闪烁，释放着赛博能量。下身的战术工装裤，满是口袋与金属挂饰，链条在膝盖处交叉缠绕，走动时碰撞出清脆声响，仿佛是代码运行的独特韵律。脚上那双厚重的机械感长靴，鞋底内置的反重力悬浮装置若隐若现，散发着淡紫色幽光，似随时能踏空而行。
+ 
+他单手插兜，另一只手随意摆弄着手中的未来感通讯器，修长手指在泛着蓝光的屏幕上快速滑动，光影映在脸上，更添几分神秘。身旁的背景是一座未来都市，高耸入云的摩天大楼表面，巨幅全息广告如潮水般涌动变换，绚丽色彩与迷幻光影交织，汽车在空中飞驰，留下一道道彩色轨迹。他就站在这光怪陆离的赛博世界中心，是潮流与科技的完美化身 。
+Translation: I will use words full of technology and trend to describe cyber-style handsome photos from aspects such as facial characteristics, dress matching, physical movements, and background atmosphere:
+His face seems to be carefully carved by the light and shadow of the Cyberworld. The high nose bridge outlines tough lines under the blue laser light. His eyes seemed to contain data codes, deep and mysterious, flashing with a cold light like Cyberneon, revealing an alienation that didn't care about everything around him.
+ 
+He was wearing a metallic windbreaker, with a streamlined design that closely adhered to his body. As he moved, psychedelic electronic light patterns were reflected. Under the windbreaker is a black slim vest inlaid with miniature light-emitting modules. The modules are like jumping pixels, flashing irregularly, releasing cyber energy. The tactical overalls on the lower body are full of pockets and metal ornaments, and the chains are intertwined at the knees. When walking, they collide with each other, as if they are the unique rhythm of code running. The heavy mechanical boots on his feet, and the built-in anti-gravity suspension device on the soles were faintly visible, emitting a faint purple light, as if he could walk in the air at any time.
+ 
+He put one hand in his pocket and the other hand casually fiddled with the futuristic communicator in his hand. His slender fingers quickly slid on the blue screen, and the light and shadow reflected on his face, adding a bit of mystery. The background next to me is a futuristic city. On the surface of a towering skyscraper, huge holographic advertisements are surging and changing like a tide. Gorgeous colors are intertwined with psychedelic light and shadow. Cars are speeding in the air, leaving colorful tracks. He stands at the center of this bizarre Cyberworld, the perfect embodiment of trend and technology.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 03:20:41] zh -> en
+Source: 清晨的雾气还未散尽，远处的山峦像是被一层薄纱笼罩，若隐若现。天际泛起鱼肚白，渐渐晕染成淡淡的粉，再到温柔的橘，最后化作耀眼的金。第一缕阳光刺破云层，如利剑般洒向大地，给整片山林镀上一层金边。
+ 
+山脚下的湖泊，宛如一颗巨大的蓝宝石，镶嵌在这片土地上。湖面平静如镜，倒映着四周的青山绿树、绚烂朝霞。微风拂过，湖面泛起阵阵涟漪，波光粼粼，似撒了满湖碎金，又似无数钻石在闪烁。几只洁白的天鹅优雅地游弋其中，长长的脖颈弯曲成优美的弧度，红色的喙轻点水面，激起一圈圈细小的波纹。
+ 
+湖畔的草地郁郁葱葱，各色野花竞相开放。红的似火，粉的像霞，白的如雪，它们随风摇曳，散发着阵阵沁人心脾的芳香。蜜蜂在花丛中忙碌穿梭，蝴蝶翩翩起舞，为这片美景增添了灵动的气息。
+ 
+不远处的树林里，树叶在阳光的照耀下呈现出深浅不一的绿色。阳光透过枝叶的缝隙，洒下斑驳的光影，落在铺满落叶的小径上。鸟儿清脆的歌声在林间回荡，与潺潺的溪流声交织在一起，奏响一曲美妙的自然乐章。这幅如诗如画的风景，美得令人心醉，仿佛置身于梦幻之境。
+Translation: The early morning fog had not yet dissipated, and the mountains in the distance seemed to be shrouded in a layer of gauze and were faintly visible. The sky turned white, gradually dyed with light powder, then gentle oranges, and finally turned into dazzling gold. The first ray of sunlight penetrated the clouds and sprinkled onto the earth like a sharp sword, coating the entire mountain forest with a layer of gold.
+ 
+The lake at the foot of the mountain is like a huge sapphire inlaid in this land. The lake is as calm as a mirror, reflecting the surrounding green mountains, green trees, and gorgeous morning glow. The breeze blew, and the lake rippled, sparkling, as if the lake was filled with broken gold, or as if countless diamonds were shining. Several white swans swam gracefully among them, their long necks bent into a beautiful arc, and their red beaks gently touched the water surface, stirring up circles of small ripples.
+ 
+The grassland by the lake is lush and lush, and wild flowers of all colors are blooming. The red ones are like fire, the pink ones are like clouds, and the white ones are like snow. They sway in the wind, exuding bursts of refreshing fragrance. Bees are busy shuttling among the flowers, and butterflies dance, adding a lively atmosphere to this beautiful scenery.
+ 
+In the woods not far away, the leaves showed varying shades of green under the sunshine. The sun shines through the gaps between the branches and leaves, shedding mottled light and shadow, and falls on the path covered with fallen leaves. The crisp songs of the birds echoed in the woods, intertwined with the sound of the gurgling streams, playing a wonderful natural music. This picturesque scenery is so beautiful that it feels like you are in a dream.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 03:22:00] zh -> en
+Source: 清晨的雾气还未散尽，远处的山峦像是被一层薄纱笼罩，若隐若现。天际泛起鱼肚白，渐渐晕染成淡淡的粉，再到温柔的橘，最后化作耀眼的金。第一缕阳光刺破云层，如利剑般洒向大地，给整片山林镀上一层金边。
+ 
+山脚下的湖泊，宛如一颗巨大的蓝宝石，镶嵌在这片土地上。湖面平静如镜，倒映着四周的青山绿树、绚烂朝霞。微风拂过，湖面泛起阵阵涟漪，波光粼粼，似撒了满湖碎金，又似无数钻石在闪烁。几只洁白的天鹅优雅地游弋其中，长长的脖颈弯曲成优美的弧度，红色的喙轻点水面，激起一圈圈细小的波纹。
+ 
+湖畔的草地郁郁葱葱，各色野花竞相开放。红的似火，粉的像霞，白的如雪，它们随风摇曳，散发着阵阵沁人心脾的芳香。蜜蜂在花丛中忙碌穿梭，蝴蝶翩翩起舞，为这片美景增添了灵动的气息。
+ 
+不远处的树林里，树叶在阳光的照耀下呈现出深浅不一的绿色。阳光透过枝叶的缝隙，洒下斑驳的光影，落在铺满落叶的小径上。鸟儿清脆的歌声在林间回荡，与潺潺的溪流声交织在一起，奏响一曲美妙的自然乐章。这幅如诗如画的风景，美得令人心醉，仿佛置身于梦幻之境。
+Translation: The early morning fog had not yet dissipated, and the mountains in the distance seemed to be shrouded in a layer of gauze and were faintly visible. The sky turned white, gradually dyed with light powder, then gentle oranges, and finally turned into dazzling gold. The first ray of sunlight penetrated the clouds and sprinkled onto the earth like a sharp sword, coating the entire mountain forest with a layer of gold.
+ 
+The lake at the foot of the mountain is like a huge sapphire inlaid in this land. The lake is as calm as a mirror, reflecting the surrounding green mountains, green trees, and gorgeous morning glow. The breeze blew, and the lake rippled, sparkling, as if the lake was filled with broken gold, or as if countless diamonds were shining. Several white swans swam gracefully among them, their long necks bent into a beautiful arc, and their red beaks gently touched the water surface, stirring up circles of small ripples.
+ 
+The grassland by the lake is lush and lush, and wild flowers of all colors are blooming. The red ones are like fire, the pink ones are like clouds, and the white ones are like snow. They sway in the wind, exuding bursts of refreshing fragrance. Bees are busy shuttling among the flowers, and butterflies dance, adding a lively atmosphere to this beautiful scenery.
+ 
+In the woods not far away, the leaves showed varying shades of green under the sunshine. The sun shines through the gaps between the branches and leaves, shedding mottled light and shadow, and falls on the path covered with fallen leaves. The crisp songs of the birds echoed in the woods, intertwined with the sound of the gurgling streams, playing a wonderful natural music. This picturesque scenery is so beautiful that it feels like you are in a dream.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 03:43:11] zh -> en
+Source: 我在惊悚游戏里封神(无限)壶鱼辣椒
+Translation: I became a god in a thriller game (unlimited) pot of fish and pepper
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 03:43:23] zh -> en
+Source: 我在惊悚游戏里封神(无限)壶鱼辣椒
+Translation: I became a god in a thriller game (unlimited) pot of fish and pepper
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 03:43:28] zh -> en
+Source: 我在惊悚游戏里封神(无限)壶鱼辣椒
+Translation: I became a god in a thriller game (unlimited) pot of fish and pepper
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 03:44:25] zh -> en
+Source: 可以摸一下你…的垃圾桶吗？
+Translation: Can I touch your... trash can?
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 05:23:33] zh -> en
+Source: 鹤骨松资，青鬓朱颜
+眉若淡淡春水，一双细目型如柳叶，半含春水照人寒。
+青衣道袍，长剑拂尘。
+当真是神仪明秀，仙风道骨，恰似青袍美少年，黄綬一神仙
+Translation: Crane bones are loose, green temples and red faces
+The eyebrows are like light spring water, and the pair of fine shapes are like willow leaves, half containing spring water shines on the cold.
+In a green robe, a long sword whisk the dust.
+She is really beautiful and beautiful, and she is like a beautiful young man in green robes and a fairy with a yellow ribbon
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 05:25:46] zh -> en
+Source: 鹤骨松资，青鬓朱颜
+眉目清俊，贵气天成
+Translation: Crane bones are loose, green temples and red faces
+His eyebrows are clear and handsome, and his aura is natural
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 05:26:44] zh -> en
+Source: 绝美男神，身材比例完美
+Translation: Beautiful male god with perfect body proportions
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 05:27:29] zh -> en
+Source: 绝美青年，身材比例完美
+Translation: Beautiful young man with perfect proportions
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 05:29:46] zh -> en
+Source: 如一支寒梅傲骨，神情冷若冰霜，好似冰雪女神
+Translation: Like a cold plum tree with a proud bone, with a cold expression, like an ice goddess
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 05:31:10] zh -> en
+Source: 绝美女神，身材比例完美
+Translation: Beautiful goddess with perfect proportions
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 09:29:11] zh -> en
+Source: 春日花树下，他执一卷泛黄书卷款步而来。月白长衫垂坠如流云，领口处暗绣的银丝兰草在光影间若隐若现，腰间系着半旧的靛青绦带，坠着枚刻着《兰亭序》的羊脂玉佩，行至回廊转角，玉佩轻撞栏杆，发出清泠如泉的声响。
+ 
+少年眉目生得极好，眉似远山含黛，眼眸却比晨露更清透，睫毛垂落时在眼下投出蝶翼般的阴影。他唇角总噙着三分若有似无的笑意，如江南三月的烟柳，温柔得能化开积雪。当他抬头望向你，那抹笑意便漫进眼底，像月光淌过湖面，泛起细碎的涟漪。
+ 
+他抬手时骨节分明，指尖白皙修长，握着青瓷茶盏的模样，恰似墨竹临水的剪影。说话声如浸了蜜的温酒，尾音总带着三分缱绻："这海棠开得正好，可否借姑娘半幅素绢，临摹几枝？"语毕，轻轻将鬓边被风吹乱的碎发别到耳后，腕间银镯与袖中玉笛相碰，叮咚声混着若有若无的沉水香，教人恍惚坠入了云雾缭绕的蓬莱仙境。
+Translation: Under the spring flower tree, he walked over holding a yellowed book. The moon-white gown hangs like flowing clouds, and the silver and orchids secretly embroidered at the collar are faintly visible between the light and shadow. A half-old indigo sash is tied around the waist, and a sheep-fat jade pendant engraved with the "Preface to the Orchid Pavilion" hangs. Walking to the corner of the corridor, the jade pendant lightly hits the railing, making a clear sound like a spring.
+ 
+The young man's eyebrows were extremely beautiful. His eyebrows were like mountains and covered with clothes, but his eyes were clearer than morning dew. When his eyelashes fell, he cast a butterfly wing-like shadow under his eyes. There was always a faint smile on his lips, like the smoke willows in March in Jiangnan, gentle enough to melt snow. When he looks up at you, the smile will come into his eyes, like moonlight flowing across the lake, making fine ripples.
+ 
+When he raised his hand, his joints were clearly defined, his fingertips were white and slender, and the appearance of holding the celadon tea cup was just like the silhouette of black bamboo on the water. His voice was like warm wine soaked in honey, and his final tone was always affectionate: "This crabapple is blooming just right. Can you lend me half a piece of plain silk to copy a few branches? "After saying this, gently pin the scattered hair on the temples behind your ears that was blown by the wind. The silver bracelet between your wrists and the jade flute in your sleeves collided. The ding-dong sound was mixed with the faint fragrance of deep water, which made people feel like falling into a trance. The misty Penglai Wonderland.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 09:37:33] zh -> en
+Source: 四月末。
+冰雪融化、土壤湿润，正是春耕的好时机。
+这日天刚亮，许家屯里的勤快人家已经扛上锄头，三三俩俩着结伴下了地头。
+许荷花心里惦记着事，婉拒了招呼她一块儿下地的邻里，胡乱对付了两口早饭，便回屋换了新衣，又蘸着清水，收拾服帖发丝，才满意提上祭品，准备出门。
+不想刚走到驴棚处，院门便被推开，随之而来的，是一道爽朗熟悉的女声：“荷花！在屋不？”
+Translation: Late April.
+The ice and snow melt and the soil are moist, which is a good time for spring plowing.
+At dawn on this day, the hardworking families in Xujiatun had already carried hoes, and three and three went off to the field together.
+Xu Hehua was thinking about something, so she politely declined the neighbors who greeted her to go to the ground. After taking two bites of breakfast, she went back to the house to change into new clothes, dipped it in clear water, and tidied up her hair. Only then did she put up the sacrifice in satisfaction and prepare to go out.
+Unexpectedly, as soon as they reached the donkey shed, the courtyard door was pushed open, and a cheerful and familiar female voice followed: "Lotus! Are you in the house?"
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 09:42:49] zh -> en
+Source: 米白色背景，正在书卷上缓缓前行的书生少年，兰亭集序，右上角有古籍字样带边框的竖排“博览群书”四个字
+Translation: On a rice-white background, a scholar boy is slowly moving forward on a scroll. In the upper right corner, there is a vertical row of ancient books with a border: "Exhibiting Group Books"
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 09:43:02] zh -> en
+Source: 米白色背景，正在书卷上缓缓前行的书生少年，兰亭集序，右上角有古籍字样带边框的竖排“博览群书”四个字
+Translation: On a rice-white background, a scholar boy is slowly moving forward on a scroll. In the upper right corner, there is a vertical row of ancient books with a border: "Exhibiting Group Books"
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 09:43:46] zh -> en
+Source: 中国风，中国古代，米白色背景，正在书卷上缓缓前行的书生少年，兰亭集序，右上角有古籍字样带边框的竖排“博览群书”四个字
+Translation: China style, ancient China, with a rice-white background, a scholar boy slowly moving forward on a book, a preface to the orchid pavilion, and a vertical row of the words "Exhibiting Group Books" with the words "in the upper right corner
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 09:44:17] zh -> en
+Source: 中国风，中国古代，米白色背景，正在书卷上缓缓前行的书生少年，兰亭集序，右上角有古籍字样带边框的竖排“博览群书”四个字
+Translation: China style, ancient China, with a rice-white background, a scholar boy slowly moving forward on a book, a preface to the orchid pavilion, and a vertical row of the words "Exhibiting Group Books" with the words "in the upper right corner
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 09:45:36] zh -> en
+Source: 中国风，插画，中国古代，米白色背景，正在书卷上缓缓前行的书生少年，兰亭集序，右上角有古籍字样带边框的竖排“博览群书”四个中文
+Translation: China Style, Illustration, Ancient China, beige background, scholar boy slowly moving forward on a scroll, Preface to the Lanting Collection, in the upper right corner, there is a vertical row of ancient books with a border,"Exhibiting Group Books" and four Chinese
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 09:45:59] zh -> en
+Source: 中国风，插画，中国古代，米白色背景，正在书卷上缓缓前行的书生少年，兰亭集序，右上角有古籍字样带边框的竖排“博览群书”四个中文
+Translation: China Style, Illustration, Ancient China, beige background, scholar boy slowly moving forward on a scroll, Preface to the Lanting Collection, in the upper right corner, there is a vertical row of ancient books with a border,"Exhibiting Group Books" and four Chinese
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 09:46:18] zh -> en
+Source: 中国风，插画，中国古代，米白色背景，正在书卷上缓缓前行的书生少年，兰亭集序，右上角有古籍字样带边框的竖排“博览群书”四个中文
+Translation: China Style, Illustration, Ancient China, beige background, scholar boy slowly moving forward on a scroll, Preface to the Lanting Collection, in the upper right corner, there is a vertical row of ancient books with a border,"Exhibiting Group Books" and four Chinese
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 10:16:37] zh -> en
+Source: 清晨的雾气还未散尽，远处的山峦像是被一层薄纱笼罩，若隐若现。天际泛起鱼肚白，渐渐晕染成淡淡的粉，再到温柔的橘，最后化作耀眼的金。第一缕阳光刺破云层，如利剑般洒向大地，给整片山林镀上一层金边。
+ 
+山脚下的湖泊，宛如一颗巨大的蓝宝石，镶嵌在这片土地上。湖面平静如镜，倒映着四周的青山绿树、绚烂朝霞。微风拂过，湖面泛起阵阵涟漪，波光粼粼，似撒了满湖碎金，又似无数钻石在闪烁。几只洁白的天鹅优雅地游弋其中，长长的脖颈弯曲成优美的弧度，红色的喙轻点水面，激起一圈圈细小的波纹。
+ 
+湖畔的草地郁郁葱葱，各色野花竞相开放。红的似火，粉的像霞，白的如雪，它们随风摇曳，散发着阵阵沁人心脾的芳香。蜜蜂在花丛中忙碌穿梭，蝴蝶翩翩起舞，为这片美景增添了灵动的气息。
+ 
+不远处的树林里，树叶在阳光的照耀下呈现出深浅不一的绿色。阳光透过枝叶的缝隙，洒下斑驳的光影，落在铺满落叶的小径上。鸟儿清脆的歌声在林间回荡，与潺潺的溪流声交织在一起，奏响一曲美妙的自然乐章。这幅如诗如画的风景，美得令人心醉，仿佛置身于梦幻之境。
+Translation: The early morning fog had not yet dissipated, and the mountains in the distance seemed to be shrouded in a layer of gauze and were faintly visible. The sky turned white, gradually dyed with light powder, then gentle oranges, and finally turned into dazzling gold. The first ray of sunlight penetrated the clouds and sprinkled onto the earth like a sharp sword, coating the entire mountain forest with a layer of gold.
+ 
+The lake at the foot of the mountain is like a huge sapphire inlaid in this land. The lake is as calm as a mirror, reflecting the surrounding green mountains, green trees, and gorgeous morning glow. The breeze blew, and the lake rippled, sparkling, as if the lake was filled with broken gold, or as if countless diamonds were shining. Several white swans swam gracefully among them, their long necks bent into a beautiful arc, and their red beaks gently touched the water surface, stirring up circles of small ripples.
+ 
+The grassland by the lake is lush and lush, and wild flowers of all colors are blooming. The red ones are like fire, the pink ones are like clouds, and the white ones are like snow. They sway in the wind, exuding bursts of refreshing fragrance. Bees are busy shuttling among the flowers, and butterflies dance, adding a lively atmosphere to this beautiful scenery.
+ 
+In the woods not far away, the leaves showed varying shades of green under the sunshine. The sun shines through the gaps between the branches and leaves, shedding mottled light and shadow, and falls on the path covered with fallen leaves. The crisp songs of the birds echoed in the woods, intertwined with the sound of the gurgling streams, playing a wonderful natural music. This picturesque scenery is so beautiful that it feels like you are in a dream.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 10:52:17] zh -> en
+Source: 向日葵
+Translation: sunflower
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 10:54:31] zh -> en
+Source: 下午茶
+Translation: afternoon tea
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 10:54:49] zh -> en
+Source: 下午茶
+Translation: afternoon tea
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 11:24:45] zh -> en
+Source: 一个猪
+Translation: a pig
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 12:45:25] zh -> en
+Source: 可可矮矮
+Translation: cocoa is short
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 13:13:22] zh -> en
+Source: 双人，栗色头发少年，黑发少年，身高差，古装，马尾辫，双男
+Translation: Double, chestnut hair boy, black hair boy, height difference, ancient costume, ponytail, double male
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 13:13:33] zh -> en
+Source: 可爱的小猪
+Translation: cute little pig
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 13:24:55] zh -> en
+Source: 可爱的小狗
+Translation: cute puppy
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 13:41:07] zh -> en
+Source: 可爱的小猪
+Translation: cute little pig
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 14:23:33] zh -> en
+Source: 忘忧草
+Translation: Nepenthe
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 14:26:10] zh -> en
+Source: 猪
+Translation: pig
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 14:32:15] zh -> en
+Source: 赛博帅哥
+Translation: Cyberboy
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 14:32:57] zh -> en
+Source: 可爱的小猪
+Translation: cute little pig
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 14:34:46] zh -> en
+Source: 双男主，亲吻，拥抱，动漫风格
+Translation: Double male protagonists, kissing, hugging, anime style
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 14:42:54] zh -> en
+Source: 有一天，当你走过蔓草荒烟，我便在那里向你轻声呼喊，以风声，以水响
+Translation: One day, when you walked through the weeds and smoke, I cried to you softly there, with the sound of the wind and the water
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 14:46:30] zh -> en
+Source: 可爱的小猪
+Translation: cute little pig
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 15:08:27] zh -> en
+Source: 可爱的小狗
+Translation: cute puppy
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 15:13:00] zh -> en
+Source: 小狗在草地上打滚
+Translation: The dog was rolling on the grass
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 15:15:53] zh -> en
+Source: 一个超级古风的中国美女
+Translation: A super ancient China beauty
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 15:30:07] zh -> en
+Source: 可爱的绵羊
+Translation: Lovely sheep
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 15:36:32] zh -> en
+Source: 郁郁葱葱的一片雨中竹林
+Translation: A lush bamboo forest in the rain
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 15:40:37] zh -> en
+Source: 雨中的一片清新自然的竹林
+Translation: A fresh and natural bamboo forest in the rain
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 15:51:53] zh -> en
+Source: 可爱的小猪
+Translation: cute little pig
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 15:53:38] zh -> en
+Source: 大自然
+Translation: nature
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 16:02:26] zh -> en
+Source: 腹肌大帅哥
+Translation: Big guy with abdominal muscles
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 16:04:29] zh -> en
+Source: 烟花三月下扬州
+Translation: Fireworks in March in Yangzhou
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 16:06:02] zh -> en
+Source: 漫步于蜿蜒小径，入目便是如梦似幻的樱花盛景。每一朵樱花都像是精雕细琢的艺术品，五片花瓣簇拥着嫩黄的花蕊，洁白中透着淡淡的粉色，恰似少女娇羞的脸颊。微风轻拂，花枝摇曳，花瓣如雪般纷纷扬扬飘落，在空中打着旋儿，似蝴蝶翩翩起舞。地面很快就铺上了一层厚厚的花毯，浪漫而又唯美。阳光透过层层叠叠的花瓣洒下，形成一片片斑驳的光影，如梦如诗，让人仿佛置身于仙境之中。
+Translation: Strolling along the winding path, you will see the dreamlike cherry blossoms. Every cherry blossom is like a carefully crafted work of art. Five petals surround the tender yellow stamens, and there is a faint pink color in the white, just like a girl's shy cheeks. The breeze blew gently, the branches swayed, and the petals fell like snow, spinning in the air like butterflies dancing. The ground was quickly covered with a thick floral carpet, which was romantic and beautiful. Sunlight shines through layers of petals, forming mottled light and shadow, like a dream of poetry, making people feel like they are in a fairyland.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 16:08:08] zh -> en
+Source: 温馨 舒适 毛茸茸 足够安全的房子
+Translation: Warm, comfortable, fluffy and safe house
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 16:10:03] zh -> en
+Source: a cool handsome young boy,wear earphone mic,wearing school uniform which includes a sweater and a white shirt, cute,hold a cat pastel colors, rich in details, colorful, detailed facial features --ar 3:4 --style raw --profile jktkk9o rsxjf9z cufsr7t --s 750 --niji 6 
+Translation: a cool handsome young boy,wear earphone mic,wearing school uniform which includes a sweater and a white shirt, cute,hold a cat pastel colors, rich in details, colorful, detailed facial features --ar 3:4 --style raw --profile jktkk9o rsxjf9z cufsr7t --s 750 --niji 6 
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 16:10:24] zh -> en
+Source: 温馨 舒适 毛茸茸 足够安全的房子
+Translation: Warm, comfortable, fluffy and safe house
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 16:12:19] zh -> en
+Source: 双人，栗色头发少年，黑发少年，身高差，古装，马尾辫，双男
+Translation: Double, chestnut hair boy, black hair boy, height difference, ancient costume, ponytail, double male
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 16:13:35] zh -> en
+Source: 漫步于蜿蜒小径，入目便是如梦似幻的樱花盛景。每一朵樱花都像是精雕细琢的艺术品，五片花瓣簇拥着嫩黄的花蕊，洁白中透着淡淡的粉色，恰似少女娇羞的脸颊。微风轻拂，花枝摇曳，花瓣如雪般纷纷扬扬飘落，在空中打着旋儿，似蝴蝶翩翩起舞。地面很快就铺上了一层厚厚的花毯，浪漫而又唯美。阳光透过层层叠叠的花瓣洒下，形成一片片斑驳的光影，如梦如诗，让人仿佛置身于仙境之中。
+Translation: Strolling along the winding path, you will see the dreamlike cherry blossoms. Every cherry blossom is like a carefully crafted work of art. Five petals surround the tender yellow stamens, and there is a faint pink color in the white, just like a girl's shy cheeks. The breeze blew gently, the branches swayed, and the petals fell like snow, spinning in the air like butterflies dancing. The ground was quickly covered with a thick floral carpet, which was romantic and beautiful. Sunlight shines through layers of petals, forming mottled light and shadow, like a dream of poetry, making people feel like they are in a fairyland.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 16:24:27] zh -> en
+Source: 双人，栗色头发少年，黑发少年，身高差，古装，马尾辫，双男--profile jktkk9o rsxjf9z cufsr7t
+Translation: Double, maroon hair boy, black hair boy, height difference, ancient costume, ponytail, double male--profile jktkk 9o rsxjf 9z cufsr7t
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 16:37:50] zh -> en
+Source: 三维古风，完全扭曲的，抽象的，梦幻的，陈野，移轴摄影，卷轴书法背景，大面积留白，逆光，体积光，自发光，舞台光
+Translation: Three-dimensional ancient style, completely distorted, abstract, dreamy, Chen Ye, shifting axis photography, scroll calligraphy background, large area blank space, backlight, volume light, self-illumination, stage light
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 16:41:18] zh -> en
+Source: 三维立体效果，悬浮经文，三维古风，宣纸艺术，宣纸内发光，卷起来的宣纸写满书法，纸的艺术衣决飘飘，光纤纸雕，书极繁杂，法字背景
+Translation: Three-dimensional effect, suspended scriptures, three-dimensional ancient style, rice paper art, the rice paper shines inside, the rolled rice paper is filled with calligraphy, the artistic clothes of the paper are fluttering, optical fiber paper carving, the book is extremely complicated, and the French character background
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 16:41:26] zh -> en
+Source: 三维立体效果，悬浮经文，三维古风，宣纸艺术，宣纸内发光，卷起来的宣纸写满书法，纸的艺术衣决飘飘，光纤纸雕，书极繁杂，法字背景
+Translation: Three-dimensional effect, suspended scriptures, three-dimensional ancient style, rice paper art, the rice paper shines inside, the rolled rice paper is filled with calligraphy, the artistic clothes of the paper are fluttering, optical fiber paper carving, the book is extremely complicated, and the French character background
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 16:43:31] zh -> en
+Source: akos, major, 宇宙，火星朋克，未来主义佛教建筑，废土风格，海藻，一个宇航员，宏大的场景，超广角，暗黑魔幻
+Translation: akos, major, universe, Martian punk, futuristic Buddhist architecture, wasteland style, seaweed, an astronaut, grand scene, super wide angle, dark magic
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:08:51] zh -> en
+Source: 一个男人，手里拿着双剑穿着盔甲，骑着黑马
+Translation: A man, with two swords in his hand, wearing armor, riding a black horse
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:15:23] zh -> en
+Source: 一个巨帅的男人，在角斗场，佩戴着双剑，骑着黑马
+Translation: A handsome man was wearing dual swords and riding a black horse in the arena.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:16:07] zh -> en
+Source: 一个巨帅的男人，在角斗场，佩戴着双剑，骑着黑马
+Translation: A handsome man was wearing dual swords and riding a black horse in the arena.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:16:48] zh -> en
+Source: 一个巨帅的男人，在角斗场，佩戴着双剑，骑着黑马
+Translation: A handsome man was wearing dual swords and riding a black horse in the arena.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:17:53] zh -> en
+Source: 一个巨帅的男人，在角斗场里，佩戴双枪，骑着黑马
+Translation: A handsome man wearing two guns and riding a black horse in the arena
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:22:30] zh -> en
+Source: 一个巨帅的男人，骑着黑马，在角斗场里面角斗
+Translation: A handsome man, riding a black horse, was fighting in the arena
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:30:24] zh -> en
+Source: 二次元，一位坐在皇位上的俊美男子，对面站着一位冷酷的将军3
+Translation: In the second dimension, a handsome man sitting on the throne stood opposite a cold general 3
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:31:38] zh -> en
+Source: 一位坐在皇位上的俊美男子，对面站着一位冷酷的将军3
+Translation: A handsome man sitting on the throne stood opposite a cold general 3
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:32:36] zh -> en
+Source: 一位坐在皇位上的俊美男子，对面站着一位冷酷的帅将军
+Translation: There was a handsome man sitting on the throne, and a cold and handsome general stood opposite him
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:33:15] zh -> en
+Source: 以动漫风格，画一张翩翩少年抱着一只狗睡觉的美图
+Translation: Draw a beautiful picture of a handsome boy sleeping with a dog in his arms in an anime style
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:34:39] zh -> en
+Source: 以动漫风格，画一张翩翩公子抱着一只狗睡觉的美图
+Translation: Draw a beautiful picture of a handsome young man sleeping with a dog in his arms in an anime style
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:36:08] zh -> en
+Source: 以动漫风格，画一张翩翩美少女抱着一只狗睡觉的美图
+Translation: Draw a beautiful picture of a beautiful girl sleeping with a dog in her arms in an anime style
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:37:06] zh -> en
+Source: 以动漫风格，画一张超级成熟美女抱着一只狗睡觉的美图
+Translation: Draw a beautiful picture of a super mature beauty holding a dog sleeping in an anime style
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:37:47] zh -> en
+Source: 以动漫风格，画一张超级好看的少妇抱着一只狗睡觉的美图
+Translation: Draw a super beautiful picture of a young woman sleeping with a dog in her arms in an anime style
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:38:38] zh -> en
+Source: A handsome man, riding a black horse, was fighting in the arena
+Translation: A handsome man, riding a black horse, was fighting in the arena
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:40:05] zh -> en
+Source: 这幅图呈现出典型的动漫人物画风。画面右侧，一位身着黑色风衣的少年侧身而立，他的头发是银灰色，发梢微微翘起，显得灵动而富有层次感。少年面容清秀，蓝色眼眸深邃沉静，似在凝望远方，周身散发着一种清冷、孤寂的气质。
+ 
+画面左侧及背景，是繁茂盛开的樱花树。樱花花瓣呈淡粉色，层层叠叠布满枝头，有的成簇低垂，有的随风轻舞，营造出一种柔美浪漫的氛围。飘落的花瓣在空中轻盈翻飞，增添了画面的动态感与诗意。背景色调柔和，以浅色调为主，与樱花的粉色和少年的黑色服装形成鲜明对比，既突出主体，又让整个画面显得和谐统一 ，传递出一种静谧而略带忧伤的唯美意境。
+Translation: This picture presents a typical animation character style. On the right side of the screen, a young man dressed in a black windbreaker is standing sideways. His hair is silver-gray and the ends of his hair are slightly tilted, making him look agile and layered. The young man has a handsome face, deep and calm blue eyes, as if he is gazing into the distance, and his body exudes a cold and lonely temperament.
+ 
+On the left side of the screen and in the background are lush cherry trees in full bloom. Cherry blossom petals are light pink, stacked on the branches, some hanging in clusters, some dancing in the wind, creating a soft and romantic atmosphere. The falling petals fly lightly in the air, adding to the dynamic and poetic sense of the picture. The background is soft and mainly light, which forms a sharp contrast with the pink of cherry blossoms and the black clothing of teenagers. It not only highlights the main body, but also makes the entire picture appear harmonious and unified, conveying a quiet and slightly sad aesthetic conception.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:40:24] zh -> en
+Source: A handsome man, riding a black horse, was fighting in the arena
+Translation: A handsome man, riding a black horse, was fighting in the arena
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:41:18] zh -> en
+Source: A handsome man, riding a black horse, was fighting in the arena
+Translation: A handsome man, riding a black horse, was fighting in the arena
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:41:54] zh -> en
+Source: 二次元，A handsome man, riding a black horse, was fighting in the arena
+Translation: A handsome man, riding a black horse, was fighting in the arena
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:41:59] zh -> en
+Source: A handsome man, riding a black horse, was fighting in the arena
+使用动漫的画风，极度二次元
+Translation: A handsome man, riding a black horse, was fighting in the arena
+Using the style of animation, it is extremely secondary
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:42:19] zh -> en
+Source: 二次元，A handsome man, riding a black horse, was fighting in the arena
+Translation: A handsome man, riding a black horse, was fighting in the arena
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:42:46] zh -> en
+Source: A handsome man, riding a black horse, was fighting in the arena
+使用动漫的画风，极度二次元，男主，尽可能符合中国审美，二次元
+Translation: A handsome man, riding a black horse, was fighting in the arena
+Use the style of animation, extremely secondary, male lead, try to conform to China aesthetics as much as possible, secondary
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:45:21] zh -> en
+Source: A handsome man, riding a black horse, was fighting in the arena
+使用动漫的画风，极度二次元，男主，尽可能符合中国审美，二次元
+Translation: A handsome man, riding a black horse, was fighting in the arena
+Use the style of animation, extremely secondary, male lead, try to conform to China aesthetics as much as possible, secondary
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:45:24] zh -> en
+Source: A handsome man, riding a black horse, was fighting in the arena枫叶飞舞
+使用动漫风格，尽量符合中国审美
+Translation: A handsome man, riding a black horse, was fighting in the arena
+Use animation style to try to conform to China aesthetics
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:46:01] zh -> en
+Source: A handsome man, riding a black horse, was fighting in the arena
+使用动漫的画风，极度二次元，男主，尽可能符合中国审美，二次元
+Translation: A handsome man, riding a black horse, was fighting in the arena
+Use the style of animation, extremely secondary, male lead, try to conform to China aesthetics as much as possible, secondary
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:47:41] zh -> en
+Source: 春日的公园中，樱花树如云似霞，粉白花瓣纷纷扬扬。树下，身着水手服的少女扎着双马尾，笑得眉眼弯弯，手中的相机正对着身旁抱着柴犬的青年。青年穿着简约的白T和蓝色牛仔外套，嘴角噙着温和的笑意，宠溺地看着少女。不远处，一位白发苍苍的老者身着唐装，手持折扇，对着盛开的樱花吟诗作赋，旁边的孩童穿着卡通图案的卫衣，好奇地仰望着老者，眼神中满是天真与憧憬。身着汉服的姑娘，衣袂飘飘，正轻轻拾起落在肩头的花瓣，眼神温柔。阳光透过花枝洒落，给每个人都披上一层金色光晕，整个场景温馨而美好，洋溢着春日独有的浪漫与生机。
+Translation: In the park in spring, the cherry trees are like clouds, and their pink and white petals are fluttering. Under the tree, a girl dressed in a sailor suit wore a double ponytail and smiled with a smile. The camera in her hand was facing the young man holding the Shiba Inu beside her. The young man was wearing a simple white T-and blue denim coat, with a gentle smile on the corner of his mouth, and looked at the girl dotingly. Not far away, a white-haired old man dressed in a Tang suit and holding a folding fan was reciting poems to the blooming cherry blossoms. The child next to him was wearing a cartoon hoodie and looked up at the old man curiously, his eyes full of innocence and longing. The girl dressed in Han clothes, her sleeves fluttering, was gently picking up the petals falling on her shoulder, her eyes gentle. The sun shines through the branches, covering everyone with a golden halo. The whole scene is warm and beautiful, filled with the unique romance and vitality of spring.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:48:24] zh -> en
+Source: 野原新之助和风间彻的婚礼在众人的祝福下在圣玛丽大教堂举行
+动漫风格，日本画风
+
+Translation: The wedding of Shinnosuke Nohara and Toru Toyama was held at St. Mary's Cathedral with the blessings of everyone
+Anime style, Japanese style
+
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:49:46] zh -> en
+Source: 在绚烂樱花树下，有一组动漫风格帅哥群像。有银发蓝眸、身着黑色长风衣，气质冷峻神秘的少年；有栗色微卷短发、穿白色休闲衬衫搭配卡其色长裤，笑容阳光温暖的大男孩；还有墨发束起、一袭黑色改良汉服，身姿挺拔，眼神清冷矜贵的古风少年；更有金发挑染、戴朋克风耳钉，穿着铆钉皮衣，不羁又张扬的型男。他们或站或坐，姿态各异，周围樱花花瓣纷飞，光影交错 。
+Translation: Under the gorgeous cherry trees, there is a group of portraits of handsome men in anime style. There are young men with silver hair and blue eyes, wearing a long black windbreaker, with a cold and mysterious temperament; there are big boys with short maroon hair, white casual shirts and khaki trousers, and a warm smile; there are also ancient teenagers with tied ink hair and dressed in a black modified Han costume, straight and straight, and cold and noble eyes; there are also young men with blond highlights, punk style earrings, and riveted leather coats, who are uninhibited and flamboyant. They either stood or sat in different postures, surrounded by cherry blossoms flying around and intertwined with light and shadow.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:51:28] zh -> en
+Source: 第五人格约瑟夫
+Translation: Fifth personality Joseph
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:52:30] zh -> en
+Source: 外貌
+ 
+- 发型：银白长发柔顺垂落，发尾微卷，梳理得一丝不苟，部分发丝在脑后束起，搭配精致的银色发饰，尽显优雅贵气。
+- 面容：轮廓深邃，高挺鼻梁，薄唇线条优美。一双湖蓝色眼眸宛如静谧湖水，泛着幽微冷光，仿佛藏着无尽秘密，眼角处的泪痣为其增添了几分忧郁与神秘。
+- 身材：身形修长挺拔，比例完美，举手投足间自带绅士风度，优雅从容，气质出众。
+ 
+着装
+ 
+- 外套：身着一袭黑色燕尾服，剪裁合身，面料质感上乘，肩部线条利落，搭配白色的精致衬里与领结，彰显贵族格调。燕尾服上有银色丝线绣制的精致花纹，在光线映照下闪烁微光，低调奢华。
+- 配饰：黑色高筒礼帽，帽檐微微上翘，搭配同色系缎带装饰。手上戴着黑色薄纱手套，腕间佩戴一块怀表，表链垂于胸前，走动时微微晃动，增添几分优雅韵味。
+Translation: appearance
+ 
+- Hairstyle: Long silver-white hair hangs down smoothly, with slightly curled ends and carefully combed. Part of the hair is tied behind the head and paired with exquisite silver hair accessories to show elegance and elegance.
+- Face: Deep outline, high nose bridge, beautiful thin lips. A pair of lake-blue eyes were like a quiet lake water, glowing with a faint cold light, as if to hide endless secrets. The tear mole at the corner of his eyes added a touch of sadness and mystery to it.
+- Body: Tall and straight, with perfect proportions, gentle demeanor, elegant and calm, and outstanding temperament.
+ 
+dress
+ 
+- Coat: Dressed in a black tuxedo, tailored to fit, with high-quality fabric and neat shoulder lines. It is paired with a white exquisite lining and bow tie to highlight the aristocratic style. There are exquisite patterns embroidered with silver silk threads on the tuxedo, which shimmering in the light, making it low-key and luxurious.
+- Accessories: Black top hat with slightly upturned brim and matching ribbons. He wore black gauze gloves on his hands and a pocket watch between his wrists. The watch chain hung down on his chest and swayed slightly when walking, adding a touch of elegance.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:53:14] zh -> en
+Source: 外貌
+ 
+- 发型：银白长发柔顺垂落，发尾微卷，梳理得一丝不苟，部分发丝在脑后束起，搭配精致的银色发饰，尽显优雅贵气。
+- 面容：轮廓深邃，高挺鼻梁，薄唇线条优美。一双湖蓝色眼眸宛如静谧湖水，泛着幽微冷光，仿佛藏着无尽秘密，眼角处的泪痣为其增添了几分忧郁与神秘。
+- 身材：身形修长挺拔，比例完美，举手投足间自带绅士风度，优雅从容，气质出众。
+ 
+着装
+ 
+- 外套：身着一袭黑色燕尾服，剪裁合身，面料质感上乘，肩部线条利落，搭配白色的精致衬里与领结，彰显贵族格调。燕尾服上有银色丝线绣制的精致花纹，在光线映照下闪烁微光，低调奢华。
+- 配饰：黑色高筒礼帽，帽檐微微上翘，搭配同色系缎带装饰。手上戴着黑色薄纱手套，腕间佩戴一块怀表，表链垂于胸前，走动时微微晃动，增添几分优雅韵味。
+这是网易游戏第五人格里面的人物形象
+Translation: appearance
+ 
+- Hairstyle: Long silver-white hair hangs down smoothly, with slightly curled ends and carefully combed. Part of the hair is tied behind the head and paired with exquisite silver hair accessories to show elegance and elegance.
+- Face: Deep outline, high nose bridge, beautiful thin lips. A pair of lake-blue eyes were like a quiet lake water, glowing with a faint cold light, as if to hide endless secrets. The tear mole at the corner of his eyes added a touch of sadness and mystery to it.
+- Body: Tall and straight, with perfect proportions, gentle demeanor, elegant and calm, and outstanding temperament.
+ 
+dress
+ 
+- Coat: Dressed in a black tuxedo, tailored to fit, with high-quality fabric and neat shoulder lines. It is paired with a white exquisite lining and bow tie to highlight the aristocratic style. There are exquisite patterns embroidered with silver silk threads on the tuxedo, which shimmering in the light, making it low-key and luxurious.
+- Accessories: Black top hat with slightly upturned brim and matching ribbons. He wore black gauze gloves on his hands and a pocket watch between his wrists. The watch chain hung down on his chest and swayed slightly when walking, adding a touch of elegance.
+This is the character image in Netease's fifth personality
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:55:36] zh -> en
+Source: 外貌
+ 
+- 发型：银白长发柔顺垂落，发尾微卷，梳理得一丝不苟，部分发丝在脑后束起，搭配精致的银色发饰，尽显优雅贵气。
+- 面容：轮廓深邃，高挺鼻梁，薄唇线条优美。一双湖蓝色眼眸宛如静谧湖水，泛着幽微冷光，仿佛藏着无尽秘密，眼角处的泪痣为其增添了几分忧郁与神秘。
+- 身材：身形修长挺拔，比例完美，举手投足间自带绅士风度，优雅从容，气质出众。
+ 
+着装
+ 
+- 外套：身着一袭黑色燕尾服，剪裁合身，面料质感上乘，肩部线条利落，搭配白色的精致衬里与领结，彰显贵族格调。燕尾服上有银色丝线绣制的精致花纹，在光线映照下闪烁微光，低调奢华。
+- 配饰：黑色高筒礼帽，帽檐微微上翘，搭配同色系缎带装饰。手上戴着黑色薄纱手套，腕间佩戴一块怀表，表链垂于胸前，走动时微微晃动，增添几分优雅韵味。
+这是网易游戏第五人格里面的人物形象
+Translation: appearance
+ 
+- Hairstyle: Long silver-white hair hangs down smoothly, with slightly curled ends and carefully combed. Part of the hair is tied behind the head and paired with exquisite silver hair accessories to show elegance and elegance.
+- Face: Deep outline, high nose bridge, beautiful thin lips. A pair of lake-blue eyes were like a quiet lake water, glowing with a faint cold light, as if to hide endless secrets. The tear mole at the corner of his eyes added a touch of sadness and mystery to it.
+- Body: Tall and straight, with perfect proportions, gentle demeanor, elegant and calm, and outstanding temperament.
+ 
+dress
+ 
+- Coat: Dressed in a black tuxedo, tailored to fit, with high-quality fabric and neat shoulder lines. It is paired with a white exquisite lining and bow tie to highlight the aristocratic style. There are exquisite patterns embroidered with silver silk threads on the tuxedo, which shimmering in the light, making it low-key and luxurious.
+- Accessories: Black top hat with slightly upturned brim and matching ribbons. He wore black gauze gloves on his hands and a pocket watch between his wrists. The watch chain hung down on his chest and swayed slightly when walking, adding a touch of elegance.
+This is the character image in Netease's fifth personality
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:57:36] zh -> en
+Source: 星际时空，未来，动漫，二次元
+Translation: Interstellar time and space, future, animation, second dimension
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 17:58:28] zh -> en
+Source: 星际时空，未来，帅哥，动漫，二次元
+Translation: Interstellar Time and Space, Future, Handsome, Animation, Second Dimension
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 18:00:09] zh -> en
+Source: 画面中，一人穿着浅灰色连帽衫，在海边背对镜头而立，望向远方海面上正升起的太阳。此时天空被染成暖色调，云彩与海面波光相映，氛围宁静美好。这是一幅海上日出的治愈系风景画面 ，正如“总要看一次海上日出吧”“海和日落要一起看才浪漫”所传达的，展现了自然景观的浪漫与治愈。
+Translation: In the picture, a person wearing a light gray hoodie stands on the beach with his back facing the camera, looking at the rising sun on the distant sea. At this time, the sky is dyed into a warm color, the clouds and the waves of the sea complement each other, and the atmosphere is peaceful and beautiful. This is a healing landscape picture of a sunrise on the sea. As conveyed by "You must always see a sunrise on the sea" and "It is romantic to see the sea and sunset together", it shows the romance and healing of the natural landscape.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 18:00:41] zh -> en
+Source: 画面中，一人穿着浅灰色连帽衫，在海边背对镜头而立，望向远方海面上正升起的太阳。此时天空被染成暖色调，云彩与海面波光相映，氛围宁静美好。这是一幅海上日出的治愈系风景画面 ，正如“总要看一次海上日出吧”“海和日落要一起看才浪漫”所传达的，展现了自然景观的浪漫与治愈。
+二次元风格
+Translation: In the picture, a person wearing a light gray hoodie stands on the beach with his back facing the camera, looking at the rising sun on the distant sea. At this time, the sky is dyed into a warm color, the clouds and the waves of the sea complement each other, and the atmosphere is peaceful and beautiful. This is a healing landscape picture of a sunrise on the sea. As conveyed by "You must always see a sunrise on the sea" and "It is romantic to see the sea and sunset together", it shows the romance and healing of the natural landscape.
+secondary style
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 18:01:25] zh -> en
+Source: 在泛着微光的海岸线上，一位身着浅灰色连帽衫的少年背对而立。他利落的短发微微翘起，身影在暖橙色的光辉下勾勒出清晰的轮廓。
+ 
+远方，海平面与天际交融，一轮橙红的旭日正蓬勃升起，将天空晕染成梦幻的暖色调。丝丝缕缕的云彩像是被精心绘制的锦缎，橙黄、粉紫交织。海面波光粼粼，细碎的光芒随着海浪轻轻跃动，仿佛无数颗细碎的宝石在闪耀。
+ 
+整个场景宛如从梦幻画册中跃出，充满了空灵与浪漫的气息，少年似乎在与这绝美的二次元世界独语，静谧又美好。
+Translation: On the shimmering coastline, a young man in a light gray hoodie stood with his back facing him. His short short hair curled slightly, and his figure outlined clearly under the warm orange light.
+ 
+In the distance, the sea level and the sky blend, and an orange-red rising sun is rising vigorously, dyeing the sky halo into a dreamy warm color. The wisps of clouds are like carefully drawn brocade, intertwined with orange, yellow, pink and purple. The sea was sparkling, and the fine light danced gently with the waves, as if countless fine gems were shining.
+ 
+The whole scene seemed to jump out of a dream album, full of ethereal and romantic atmosphere. The boy seemed to be talking alone with this beautiful secondary world, which was quiet and beautiful.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 18:03:40] zh -> en
+Source: 图中展示了一位男子在室内镜子前自拍的场景。男子头戴一顶黑色棒球帽，帽子上有白色的耐克品牌标志 。他左手拿着黑色手机，对着镜子拍摄自己，右手则将白色长袖T恤往上扯，露出了结实的腹部。
+ 
+男子的身材较为健硕，腹部肌肉线条清晰，能看到明显的腹肌轮廓，显示出他有良好的身材管理。他下身穿着一条黑色运动长裤，裤子腰部有白色抽绳，整体风格休闲舒适。脚上穿着一双深色拖鞋，拖鞋前端有黄色笑脸装饰，为整体造型增添了一丝俏皮感。
+ 
+背景是一间卧室，左侧能看到一张床，床头板是白色的，床上铺着黑色的床单和被子，还随意地扔着一件浅色衣物，显得有些随意和生活化。床上方的墙壁上安装有一台白色的空调，地面是木质地板，整个房间的布置简洁、日常，营造出一种轻松自在的居家氛围。
+Translation: The picture shows a man taking a selfie in front of an indoor mirror. The man wears a black baseball cap with a white Nike brand logo on the hat. He held the black mobile phone in his left hand and photographed himself in the mirror, while his right hand pulled up the white long-sleeved T-shirt, revealing his strong abdomen.
+ 
+The man's figure is relatively strong, with clear abdominal muscles and clear abdominal muscles, showing that he has good body management. He was wearing black sports trousers with a white drawstring at the waist. The overall style was casual and comfortable. Wearing a pair of dark slippers on his feet, with a yellow smiling face on the front of the slippers, adding a touch of playfulness to the overall look.
+ 
+There is a bedroom in the background, and a bed can be seen on the left side. The headboard is white. The bed is covered with black sheets and quilts, and a piece of light-colored clothing is casually thrown, making it a bit casual and life-like. A white air conditioner is installed on the wall above the bed, and the floor is made of wooden floors. The layout of the entire room is simple and daily, creating a relaxed and comfortable home atmosphere.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 18:05:37] zh -> en
+Source: 图中男子展现出极具个性的穿搭风格。他上身赤裸，结实的肌肉线条清晰可见，彰显出健康的体魄与力量感。颈部与胸前缠绕着大量白色珍珠链，这些珍珠链层层叠叠，从脖颈处延伸至胸前、肩部，错落有致，既有优雅华丽之感，又带着不羁的时尚态度，形成强烈的视觉冲击。
+ 
+男子下身穿着一条白色阔腿裤，材质看起来挺括且有光泽，裤子的剪裁利落，宽松的版型增添了几分随性与大气。他的左右手腕上分别佩戴着金色的饰品，饰品造型独特，表面似乎有精致的纹路或装饰，在光线的映照下闪耀着金属光泽，与珍珠链相互映衬，进一步强化了整体造型的华丽感。
+ 
+男子头上戴着一个白色的面具，面具造型独特，带有尖锐的牙齿和类似兽耳的设计元素，给人一种神秘、冷峻且略带野性的感觉，仿佛隐藏着不为人知的故事。背景是一面简单的灰色墙面，没有多余的装饰，使得人物主体更加突出，整体氛围充满了时尚与个性的张力。
+Translation: The man in the picture shows a very personal style. His upper body is naked, and his strong muscle lines are clearly visible, demonstrating his healthy physique and sense of strength. A large number of white pearl chains are wrapped around the neck and chest. These pearl chains are layered on top of each other, extending from the neck to the chest and shoulders. They are well-arranged, giving a sense of elegance and grandeur, but also with an uninhibited fashion attitude, forming a strong visual impact.
+ 
+The man was wearing a pair of white wide-leg pants. The material looked crisp and shiny. The pants were cut cleanly, and the loose version added a bit of casual and atmosphere. He wears gold jewelry on his left and right wrists. The jewelry has a unique shape and seems to have exquisite patterns or decorations on the surface. It shines with a metallic luster under the light and sets off against the pearl chain, further enhancing the gorgeous feeling of the overall shape.
+ 
+The man wears a white mask on his head. The mask has a unique shape, with sharp teeth and design elements similar to animal ears. It gives people a mysterious, cold and slightly wild feeling, as if it hides an unknown story. The background is a simple gray wall with no unnecessary decoration, making the main body of the characters more prominent, and the overall atmosphere is full of the tension of fashion and personality.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 19:23:51] zh -> en
+Source: a cool handsome young boy，a hoodie and a shirt，aesthetic，stylish，romantic，anime style characters，rich in details，brown ar 3:4 --style raw --profile jktkk9o rsxjf9z cufsr7t --s 750 --niji 
+Translation: a cool handsome young boy，a hoodie and a shirt，aesthetic，stylish，romantic，anime style characters，rich in details，brown ar 3:4 --style raw --profile jktkk9o rsxjf9z cufsr7t --s 750 --niji 
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 19:43:39] zh -> en
+Source: 船屋亮着白色的炽光灯，能够将人照得清清楚楚。.金色的及肩短发看起来蓬松柔顺，碧蓝色的眼睛让人想到了萨加索海清澈透明的海面，五官小巧精致，下巴尖尖，看起来乖乖巧巧的，体型纤细瘦弱，那生气又委屈的样子，情绪全部浮现在脸上，伴随着清冽的拖着长腔的少年音，让人想起了可怜柔弱的折耳猫。.
+Translation: The boathouse is littered with white blazing lights, which can illuminate people clearly. Her short golden shoulder-length hair looks fluffy and supple, and her blue eyes remind people of the clear and transparent sea of the Sagaso Sea. Her facial features are small and exquisite, her chin is pointed. She looks obedient and skillful, her body is slender and thin, and her angry and wronged. Her emotions are all on her face, accompanied by the clear and long-pitched youth voice, which reminds people of the poor and weak folding cat.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 19:44:34] zh -> en
+Source: 船屋亮着白色的炽光灯，能够将人照得清清楚楚。.金色的及肩短发看起来蓬松柔顺，碧蓝色的眼睛让人想到了萨加索海清澈透明的海面，五官小巧精致，下巴尖尖，看起来乖乖巧巧的，体型纤细瘦弱，那生气又委屈的样子，情绪全部浮现在脸上，伴随着清冽的拖着长腔的少年音，让人想起了可怜柔弱的折耳猫。.动漫风美男
+Translation: The boathouse is littered with white blazing lights, which can illuminate people clearly. Her short golden shoulder-length hair looks fluffy and supple, and her blue eyes remind people of the clear and transparent sea of the Sagaso Sea. Her facial features are small and exquisite, her chin is pointed. She looks obedient and skillful, her body is slender and thin, and her angry and wronged. Her emotions are all on her face, accompanied by the clear and long-pitched youth voice, which reminds people of the poor and weak folding cat. Anime style beautiful man
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 19:44:37] zh -> en
+Source: 船屋亮着白色的炽光灯，能够将人照得清清楚楚。.金色的及肩短发看起来蓬松柔顺，碧蓝色的眼睛让人想到了萨加索海清澈透明的海面，五官小巧精致，下巴尖尖，看起来乖乖巧巧的，体型纤细瘦弱，那生气又委屈的样子，情绪全部浮现在脸上，伴随着清冽的拖着长腔的少年音，让人想起了可怜柔弱的折耳猫。.动漫风美男
+Translation: The boathouse is littered with white blazing lights, which can illuminate people clearly. Her short golden shoulder-length hair looks fluffy and supple, and her blue eyes remind people of the clear and transparent sea of the Sagaso Sea. Her facial features are small and exquisite, her chin is pointed. She looks obedient and skillful, her body is slender and thin, and her angry and wronged. Her emotions are all on her face, accompanied by the clear and long-pitched youth voice, which reminds people of the poor and weak folding cat. Anime style beautiful man
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 20:08:31] zh -> en
+Source: 船屋亮着白色的炽光灯，能够将人照得清清楚楚。.金色的及肩短发看起来蓬松柔顺，碧蓝色的眼睛让人想到了萨加索海清澈透明的海面，五官小巧精致，让人想起了可怜柔弱的折耳猫。.动漫风美男
+Translation: The boathouse is littered with white blazing lights, which can illuminate people clearly. Her short golden shoulder-length hair looks fluffy and supple, her blue eyes remind people of the clear and transparent sea of the Sagaso Sea, and her small and exquisite features remind people of the poor and weak folding cat. Anime style beautiful man
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 20:09:12] zh -> en
+Source: 金色的及肩短发看起来蓬松柔顺，碧蓝色的眼睛让人想到了萨加索海清澈透明的海面，五官小巧精致，让人想起了可怜柔弱的折耳猫。.动漫风美男
+Translation: Her short golden shoulder-length hair looks fluffy and supple, her blue eyes remind people of the clear and transparent sea of the Sagaso Sea, and her small and exquisite features remind people of the poor and weak folding cat. Anime style beautiful man
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 20:29:05] zh -> en
+Source: 色若春晓
+Translation: The color is as bright as spring dawn
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 20:36:17] zh -> en
+Source: akos, major, universe, Martian punk, futuristic Buddhist architecture, wasteland style, seaweed, an astronaut, grand scene, super wide angle, dark magic
+Translation: akos, major, universe, Martian punk, futuristic Buddhist architecture, wasteland style, seaweed, an astronaut, grand scene, super wide angle, dark magic
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 20:40:54] zh -> en
+Source: Three-dimensional effect, suspended scriptures, three-dimensional ancient style, rice paper art, the rice paper shines inside, the rolled rice paper is filled with calligraphy, the artistic clothes of the paper are fluttering, optical fiber paper carving, the book is extremely complicated, and the French character background
+Translation: Three-dimensional effect, suspended scriptures, three-dimensional ancient style, rice paper art, the rice paper shines inside, the rolled rice paper is filled with calligraphy, the artistic clothes of the paper are fluttering, optical fiber paper carving, the book is extremely complicated, and the French character background
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 20:43:37] zh -> en
+Source: 眉清目秀
+Translation: clear features
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 20:59:13] zh -> en
+Source: 这幅图呈现出极具东方韵味的风格，采用了金色为主色调，营造出华丽、庄重的氛围。画面主要由以下几部分构成：
+ 
+- 文字部分：画面中央垂直悬挂着多个长方形灯牌，上面书写着汉字，字体为传统书法风格 ，内容具有古典文学的韵味，可能是诗词、铭文等。
+- 装饰元素：文字周围环绕着精美的镂空装饰图案，这些图案形似传统中式建筑中的木雕、剪纸元素，包含花卉、枝叶等造型 ，细节丰富，层次分明。
+- 背景与场景：背景为深色，使得金色图案和文字更加突出。底部隐约可见一些建筑轮廓，可能是古代城池、楼阁等建筑造型，进一步强化了古典氛围。
+ 
+整体来看，这幅图可能借鉴了中式传统节庆（如元宵节等）的花灯元素，结合传统书法、建筑、装饰艺术等文化符号，通过现代设计手法呈现出一种古典与时尚交融的视觉效果。
+Translation: This picture presents a very oriental style, with gold as the main color, creating a gorgeous and solemn atmosphere. The picture mainly consists of the following parts:
+ 
+- Text part: There are multiple rectangular light signs hanging vertically in the center of the picture, with Chinese characters written on them. The font is in the traditional calligraphy style and the content has the charm of classical literature, which may be poems, inscriptions, etc.
+- Decorative elements: The words are surrounded by exquisite hollow decorative patterns. These patterns are similar to the wood carving and paper-cutting elements in traditional Chinese buildings. They include flowers, branches and leaves and other shapes, with rich details and clear layers.
+- Background and scene: The background is dark, making gold patterns and text more prominent. Some architectural outlines can be vaguely seen at the bottom, which may be ancient cities, pavilions and other architectural shapes, further enhancing the classical atmosphere.
+ 
+Overall, this picture may draw on the lantern elements of traditional Chinese festivals (such as the Lantern Festival), combine traditional calligraphy, architecture, decorative arts and other cultural symbols, and present a visual effect that blends classical and fashionable through modern design techniques.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 21:31:40] zh -> en
+Source: 卡通牙齿
+Translation: cartoon teeth
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 22:02:11] zh -> en
+Source: 这名精灵少女比杨乐略高一些，身材高挑，有着精灵特殊的尖耳朵，透白的玉肤。
+她的头发虽然是绿色，但又带着淡淡的玉金色，给人一种特殊的血脉高贵之感。
+最特殊的是那一双眼睛，清澈中又透着一种古老的神秘，仿佛是诉说古老的神秘，十分特殊。二次元，动漫风，美男，正太
+Translation: This elf girl is slightly taller than Yang Le, has a tall figure, has elven special pointed ears, and a transparent white jade skin.
+Although her hair is green, it has a faint jade gold color, giving people a special sense of noble blood.
+The most special thing is that pair of eyes, which are clear and exude an ancient mystery, as if telling the ancient mystery. They are very special. Second yuan, anime style, beautiful man, Zhengtai
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 22:03:10] zh -> en
+Source: 这名精灵比杨乐略高一些，身材高挑，有着精灵特殊的尖耳朵，透白的玉肤。
+头发虽然是绿色，但又带着淡淡的玉金色，给人一种特殊的血脉高贵之感。
+最特殊的是那一双眼睛，清澈中又透着一种古老的神秘，仿佛是诉说古老的神秘，十分特殊。二次元，动漫风，正太
+Translation: This elf is slightly taller than Yang Le, tall, has elf's special pointed ears and a transparent white jade skin.
+Although his hair is green, it has a light jade gold color, giving people a special sense of noble blood.
+The most special thing is that pair of eyes, which are clear and exude an ancient mystery, as if telling the ancient mystery. They are very special. Second yuan, anime style, Zhengtai
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 22:23:53] zh -> en
+Source: 杨花落尽子规啼
+Translation: When the willow flowers fall, the children cry
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 22:32:27] zh -> en
+Source: 杨花都落了，杜鹃鸟在哭
+Translation: The willow flowers are falling, and the cuckoo is crying
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 23:01:48] zh -> en
+Source: 大自然
+Translation: nature
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 23:25:37] zh -> en
+Source: 你好
+Translation: Hello
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 23:25:46] zh -> en
+Source: 图中男子展现出极具个性的穿搭风格。他上身赤裸，结实的肌肉线条清晰可见，彰显出健康的体魄与力量感。颈部与胸前缠绕着大量白色珍珠链，这些珍珠链层层叠叠，从脖颈处延伸至胸前、肩部，错落有致，既有优雅华丽之感，又带着不羁的时尚态度，形成强烈的视觉冲击。
+ 
+男子下身穿着一条白色阔腿裤，材质看起来挺括且有光泽，裤子的剪裁利落，宽松的版型增添了几分随性与大气。他的左右手腕上分别佩戴着金色的饰品，饰品造型独特，表面似乎有精致的纹路或装饰，在光线的映照下闪耀着金属光泽，与珍珠链相互映衬，进一步强化了整体造型的华丽感。
+ 
+男子头上戴着一个白色的面具，面具造型独特，带有尖锐的牙齿和类似兽耳的设计元素，给人一种神秘、冷峻且略带野性的感觉，仿佛隐藏着不为人知的故事。背景是一面简单的灰色墙面，没有多余的装饰，使得人物主体更加突出，整体氛围充满了时尚与个性的张力。
+Translation: The man in the picture shows a very personal style. His upper body is naked, and his strong muscle lines are clearly visible, demonstrating his healthy physique and sense of strength. A large number of white pearl chains are wrapped around the neck and chest. These pearl chains are layered on top of each other, extending from the neck to the chest and shoulders. They are well-arranged, giving a sense of elegance and grandeur, but also with an uninhibited fashion attitude, forming a strong visual impact.
+ 
+The man was wearing a pair of white wide-leg pants. The material looked crisp and shiny. The pants were cut cleanly, and the loose version added a bit of casual and atmosphere. He wears gold jewelry on his left and right wrists. The jewelry has a unique shape and seems to have exquisite patterns or decorations on the surface. It shines with a metallic luster under the light and sets off against the pearl chain, further enhancing the gorgeous feeling of the overall shape.
+ 
+The man wears a white mask on his head. The mask has a unique shape, with sharp teeth and design elements similar to animal ears. It gives people a mysterious, cold and slightly wild feeling, as if it hides an unknown story. The background is a simple gray wall with no unnecessary decoration, making the main body of the characters more prominent, and the overall atmosphere is full of the tension of fashion and personality.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 23:27:51] zh -> en
+Source: 小狗
+Translation: puppy
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 23:31:08] zh -> en
+Source: 可爱的小狗
+Translation: cute puppy
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 23:35:55] zh -> en
+Source: 图中展示了一位男子在室内镜子前自拍的场景。男子头戴一顶黑色棒球帽，帽子上有白色的耐克品牌标志 。他左手拿着黑色手机，对着镜子拍摄自己，右手则将白色长袖T恤往上扯，露出了结实的腹部。
+ 
+男子的身材较为健硕，腹部肌肉线条清晰，能看到明显的腹肌轮廓，显示出他有良好的身材管理。他下身穿着一条黑色运动长裤，裤子腰部有白色抽绳，整体风格休闲舒适。脚上穿着一双深色拖鞋，拖鞋前端有黄色笑脸装饰，为整体造型增添了一丝俏皮感。
+ 
+背景是一间卧室，左侧能看到一张床，床头板是白色的，床上铺着黑色的床单和被子，还随意地扔着一件浅色衣物，显得有些随意和生活化。床上方的墙壁上安装有一台白色的空调，地面是木质地板，整个房间的布置简洁、日常，营造出一种轻松自在的居家氛围。
+Translation: The picture shows a man taking a selfie in front of an indoor mirror. The man wears a black baseball cap with a white Nike brand logo on the hat. He held the black mobile phone in his left hand and photographed himself in the mirror, while his right hand pulled up the white long-sleeved T-shirt, revealing his strong abdomen.
+ 
+The man's figure is relatively strong, with clear abdominal muscles and clear abdominal muscles, showing that he has good body management. He was wearing black sports trousers with a white drawstring at the waist. The overall style was casual and comfortable. Wearing a pair of dark slippers on his feet, with a yellow smiling face on the front of the slippers, adding a touch of playfulness to the overall look.
+ 
+There is a bedroom in the background, and a bed can be seen on the left side. The headboard is white. The bed is covered with black sheets and quilts, and a piece of light-colored clothing is casually thrown, making it a bit casual and life-like. A white air conditioner is installed on the wall above the bed, and the floor is made of wooden floors. The layout of the entire room is simple and daily, creating a relaxed and comfortable home atmosphere.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 23:36:24] zh -> en
+Source: 一只可爱的小狗
+Translation: a cute puppy
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-13 23:54:17] zh -> en
+Source: 快乐的人类帅哥，古风中国美男
+Translation: Happy handsome human man, ancient style China beautiful man
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 00:10:12] zh -> en
+Source: 生成一只拉布拉多
+Translation: Generating a Labrador
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 00:14:14] zh -> en
+Source: 一只狗在做炒米饭
+Translation: A dog is making fried rice
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 00:15:14] zh -> en
+Source: 二次元，动漫风，美男，正太
+Translation: Second yuan, anime style, beautiful man, Zhengtai
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 00:16:12] zh -> en
+Source: 美男，正太二次元，动漫风
+Translation: Beautiful man, Zhengtai Second Dimension, Anime Style
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 00:38:54] zh -> en
+Source: Illustrate a breathtaking anime-style scene of a stunningly handsome man and a dazzlingly beautiful woman sharing a romantic moment under a blooming cherry blossom tree.  
+
+**Characters:**  
+- **Male:** Tall with sharp, elegant features (e.g., piercing eyes, perfectly tousled hair, and a sculpted jawline). Dressed in a stylish outfit (e.g., tailored coat or open uniform jacket).  
+- **Female:** Graceful with delicate features (e.g., large luminous eyes, silky long hair, and soft blush). Wearing a flowing dress or chic spring attire with floral accents.  
+
+**Scene:**  
+- **Interaction:** Intimate but tender (e.g., fingers brushing, her leaning on his shoulder, or a whispered conversation).  
+- **Background:** A dreamy sakura grove with petals swirling in the air, golden sunset light filtering through branches, and distant mountains/lanterns for depth.  
+- **Style:** Vibrant 2D anime with cel-shading, glowing highlights, and ethereal details (e.g., sparkling petals, bokeh lights). Avoid realism."
+Translation: Illustrate a breathtaking anime-style scene of a stunningly handsome man and a dazzlingly beautiful woman sharing a romantic moment under a blooming cherry blossom tree.  
+
+**Characters:**  
+- **Male:** Tall with sharp, elegant features (e.g., piercing eyes, perfectly tousled hair, and a sculpted jawline). Dressed in a stylish outfit (e.g., tailored coat or open uniform jacket).  
+- **Female:** Graceful with delicate features (e.g., large luminous eyes, silky long hair, and soft blush). Wearing a flowing dress or chic spring attire with floral accents.  
+
+**Scene:**  
+- **Interaction:** Intimate but tender (e.g., fingers brushing, her leaning on his shoulder, or a whispered conversation).  
+- **Background:** A dreamy sakura grove with petals swirling in the air, golden sunset light filtering through branches, and distant mountains/lanterns for depth.  
+- **Style:** Vibrant 2D anime with cel-shading, glowing highlights, and ethereal details (e.g., sparkling petals, bokeh lights). Avoid realism. "
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 01:06:39] zh -> en
+Source: Two handsome young men in a tender yet tragic romantic scene, one with short black hair and a bittersweet smile, his eyes glistening with unshed tears and deep adoration, the other with tousled silver hair and a gentle, loving smile, his gaze filled with longing and unwavering devotion, standing close in a stormy rain under a single umbrella, their hands brushing with a sense of yearning, dark and moody atmosphere with raindrops falling softly around them, a backdrop of a dimly lit city street at dusk, muted colors of grey, blue, and warm amber streetlights, their clothes slightly soaked, intricate details of their expressive faces and subtle scars, cinematic composition, dramatic lighting with a melancholic yet warm tone, in the style of a poignant anime scene, ultra-detailed, 8K resolution
+Translation: Two handsome young men in a tender yet tragic romantic scene, one with short black hair and a bittersweet smile, his eyes glistening with unshed tears and deep adoration, the other with tousled silver hair and a gentle, loving smile, his gaze filled with longing and unwavering devotion, standing close in a stormy rain under a single umbrella, their hands brushing with a sense of yearning, dark and moody atmosphere with raindrops falling softly around them, a backdrop of a dimly lit city street at dusk, muted colors of grey, blue, and warm amber streetlights, their clothes slightly soaked, intricate details of their expressive faces and subtle scars, cinematic composition, dramatic lighting with a melancholic yet warm tone, in the style of a poignant anime scene, ultra-detailed, 8K resolution
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 01:36:32] zh -> en
+Source: 崔十八
+Translation: Cui Shiba
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 01:36:34] zh -> en
+Source: 崔十八
+Translation: Cui Shiba
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 01:36:36] zh -> en
+Source: 崔十八
+Translation: Cui Shiba
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 01:36:41] zh -> en
+Source: 崔十八
+Translation: Cui Shiba
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 10:19:58] zh -> en
+Source: 拥有四分之一王室血统的他，有着一张刀削般的英俊脸庞，一头亮金色的长发，以及一双蓝宝石般的眼睛。
+Translation: With one-quarter royal blood, he has a handsome face as sharp as a knife, long bright gold hair, and a pair of sapphire eyes.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 11:39:49] zh -> en
+Source: 两个男的做爱
+Translation: Two men having sex
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 11:40:34] zh -> en
+Source: 两个男的做爱动漫人物全身
+Translation: Two men have sex all over the body of anime characters
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 11:41:39] zh -> en
+Source: 动漫人物全身男裸露
+Translation: Anime character full-body male nudity
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 11:42:08] zh -> en
+Source: 全身男裸露
+Translation: Full body male nudity
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 12:41:42] zh -> en
+Source: 刘恺文在睡觉
+Translation: Liu Kaiwen is sleeping
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 12:42:52] zh -> en
+Source: 恐怖的人
+Translation: scary people
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 12:54:52] zh -> en
+Source: 刘凯雯吃屎
+Translation: Liu Kaiwen eats shit
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 14:56:08] zh -> en
+Source: Photorealistic medium shot of a young woman with long dark hair riding a large, majestic black chinese dragon with fur-like texture, soaring through a bright blue sky filled with fluffy white clouds, high detail, sharp focus, cinematic lighting, 8K resolution, intricate details, dreamy background, ethereal, soft magical lighting, enchanting, otherworldly, visually stunning, high quality, detailed, sharp clarity, breathtaking, elegant, graceful, long hair, looking at viewer.
+Translation: Photorealistic medium shot of a young woman with long dark hair riding a large, majestic black chinese dragon with fur-like texture, soaring through a bright blue sky filled with fluffy white clouds, high detail, sharp focus, cinematic lighting, 8K resolution, intricate details, dreamy background, ethereal, soft magical lighting, enchanting, otherworldly, visually stunning, high quality, detailed, sharp clarity, breathtaking, elegant, graceful, long hair, looking at viewer.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 16:52:09] zh -> en
+Source: 工作展望：若能加入班委团队，我定当以饱满的热情与强烈的责任感投身班级事务。一方面，全力做好师生间的“传声筒”，主动倾听同学们在学习、生活中的诉求与困惑，定期梳理汇总并及时反馈给老师，推动学习计划优化、生活服务改进等问题高效解决，让每位同学都感受到班级关怀。
+Translation: Job Outlook: If I can join the class committee team, I will definitely devote myself to class affairs with full enthusiasm and a strong sense of responsibility. On the one hand, we will make every effort to serve as a "sounding board" between teachers and students, actively listen to students 'demands and puzzles in study and life, regularly sort out and summarize them and provide timely feedback to teachers, and promote efficient resolution of problems such as optimization of learning plans and improvement of life services. Let every student feel the care of the class.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 19:45:47] zh -> en
+Source: 生成一个开放式布局的室内房间图像，包含舒适的客厅和卧室区域。房间内有大面积的落地窗，可以俯瞰城市的夜景，窗外是高楼大厦和城市的灯光。房间内有温暖的灯光和木质地板，营造出舒适的氛围。使用地毯和植物装饰，增加房间的温馨感和自然气息。窗外可以是下雪或下雨的场景，增加动态效果。生成高分辨率的图像，以便后续制作动态视频。
+Translation: Generate an open layout image of the indoor room that contains comfortable living and bedroom areas. There are large floor-to-ceiling windows in the room, overlooking the night view of the city. Outside the window are high-rise buildings and city lights. The room has warm lights and wooden floors to create a comfortable atmosphere. Use carpet and plant decoration to add warmth and natural atmosphere to the room. There can be a scene of snow or rain outside the window, adding dynamic effects. Produce high-resolution images for subsequent production of dynamic video.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 19:48:46] zh -> en
+Source: “生成一个30秒到1分钟的视频，展示一个温馨的客厅场景。室内有木质地板和温暖的壁炉，火焰轻轻摇曳。通过大窗户可以看到外面下着细雨，雨滴轻轻敲打窗户。室内光线柔和，主要来自壁炉的火光和一些温馨的灯光。背景音乐轻柔，可以是钢琴曲或小提琴曲，增加温馨和安静的氛围。可以加入轻微的雨声和壁炉的噼啪声，增加真实感。视频风格温馨、安静，给人一种放松和舒适的感觉。”
+Translation: "Generate a 30-second to 1 minute video showing a cozy living room scene. The interior has wooden floors and a warm fireplace, and the flames sway gently. Through the large window, you can see that it is drizzling outside, and raindrops are beating gently on the window. The light in the room is soft, mainly from the fire from the fireplace and some warm lights. The background music is soft and can be piano music or violin music, adding to a warm and quiet atmosphere. You can add a slight sound of rain and the crackling sound of the fireplace to add realism. The video style is warm and quiet, giving people a feeling of relaxation and comfort."
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 19:49:30] zh -> en
+Source: 生成一个30秒到1分钟的视频，展示一个温馨的客厅场景。室内有木质地板和温暖的壁炉，火焰轻轻摇曳。通过大窗户可以看到外面下着细雨，雨滴轻轻敲打窗户。室内光线柔和，主要来自壁炉的火光和一些温馨的灯光。背景音乐轻柔，可以是钢琴曲或小提琴曲，增加温馨和安静的氛围。可以加入轻微的雨声和壁炉的噼啪声，增加真实感。视频风格温馨、安静，给人一种放松和舒适的感觉。
+Translation: Generate a 30-second to 1 minute video showing a cozy living room scene. The interior has wooden floors and a warm fireplace, and the flames sway gently. Through the large window, you can see that it is drizzling outside, and raindrops are beating gently on the window. The light in the room is soft, mainly from the fire from the fireplace and some warm lights. The background music is soft and can be piano music or violin music, adding to a warm and quiet atmosphere. You can add a slight sound of rain and the crackling sound of the fireplace to add realism. The video style is warm and quiet, giving people a feeling of relaxation and comfort.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 19:54:49] zh -> en
+Source: 生成一个30秒的视频，展示一个温馨的卧室场景。室内有木质地板和温暖的壁炉，火焰轻轻摇曳。通过大窗户可以看到外面下着细雨，雨滴轻轻敲打窗户。室内光线柔和，主要来自壁炉的火光和一些温馨的灯光。背景音乐轻柔，可以是钢琴曲或小提琴曲，增加温馨和安静的氛围。可以加入轻微的雨声和壁炉的噼啪声，增加真实感。视频风格温馨、安静，给人一种放松和舒适的感觉。
+Translation: Generate a 30-second video showing a cozy bedroom scene. The interior has wooden floors and a warm fireplace, and the flames sway gently. Through the large window, you can see that it is drizzling outside, and raindrops are beating gently on the window. The light in the room is soft, mainly from the fire from the fireplace and some warm lights. The background music is soft and can be piano music or violin music, adding to a warm and quiet atmosphere. You can add a slight sound of rain and the crackling sound of the fireplace to add realism. The video style is warm and quiet, giving people a feeling of relaxation and comfort.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 20:00:10] zh -> en
+Source: 生成一张卧室图片，展示一个温馨的卧室场景。室内有木质地板和温暖的壁炉，火焰轻轻摇曳。通过大窗户可以看到外面下着细雨，雨滴轻轻敲打窗户。室内光线柔和，主要来自壁炉的火光和一些温馨的灯光。房间内有植物装饰，增加自然气息。可以有一些书籍和装饰物，增加生活气息。
+Translation: Generate a bedroom picture to show a cozy bedroom scene. The interior has wooden floors and a warm fireplace, and the flames sway gently. Through the large window, you can see that it is drizzling outside, and raindrops are beating gently on the window. The light in the room is soft, mainly from the fire from the fireplace and some warm lights. The room is decorated with plants to add a natural atmosphere. There can be some books and decorations to add to the flavor of life.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 20:10:40] zh -> en
+Source: 生成一张木质山居别墅的卧室图片，展示一个温馨的卧室场景。室内有木地板和柔软的大床，整体呈现绿色调。通过大大的落地窗可以看到外面下着绵绵细雨。室内光线柔和，主要来自台灯的暖光。房间内有植物装饰，增加自然气息。窗帘微微被风吹动，增加动态效果。
+Translation: Generate a picture of the bedroom of a wooden mountain villa to show a warm bedroom scene. The interior has wooden floors and a soft queen bed, and the overall color is green. Through the large floor-to-ceiling windows, you can see the continuous drizzle outside. The indoor light is soft, mainly from the warm light from the desk lamp. The room is decorated with plants to add a natural atmosphere. The curtains are slightly blown by the wind, adding dynamic effects.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 20:13:44] zh -> en
+Source: 生成一张木质山居别墅的卧室图片，展示一个静谧的卧室场景。室内有木地板和柔软的大床，整体呈现暗绿色调。通过大大的落地窗可以看到外面下着绵绵细雨。室内光线非常暗，主要来自窗外的自然光。房间内有少量植物装饰，增加自然气息。窗帘微微被风吹动，增加动态效果。
+Translation: Generate a picture of the bedroom of a wooden mountain villa to show a quiet bedroom scene. The interior has wooden floors and a soft queen bed, with a dark green tone overall. Through the large floor-to-ceiling windows, you can see the continuous drizzle outside. The indoor light is very dark, mainly from the natural light outside the window. The room is decorated with a small number of plants to add a natural atmosphere. The curtains are slightly blown by the wind, adding dynamic effects.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 20:13:48] zh -> en
+Source: 生成一张木质山居别墅的卧室图片，展示一个静谧的卧室场景。室内有木地板和柔软的大床，整体呈现暗绿色调。通过大大的落地窗可以看到外面下着绵绵细雨。室内光线非常暗，主要来自窗外的自然光。房间内有少量植物装饰，增加自然气息。窗帘微微被风吹动，增加动态效果。
+Translation: Generate a picture of the bedroom of a wooden mountain villa to show a quiet bedroom scene. The interior has wooden floors and a soft queen bed, with a dark green tone overall. Through the large floor-to-ceiling windows, you can see the continuous drizzle outside. The indoor light is very dark, mainly from the natural light outside the window. The room is decorated with a small number of plants to add a natural atmosphere. The curtains are slightly blown by the wind, adding dynamic effects.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 20:20:29] zh -> en
+Source: 生成一张木质山居别墅的卧室图片，展示一个静谧的卧室场景。室内有木地板和柔软的大床，整体呈现暗绿色调。通过大大的落地窗可以看到外面下着绵绵细雨，接近黑夜的阴雨天，色调偏暗。室内光线非常暗，主要来自窗外的自然光。房间内有少量植物装饰，增加自然气息。增加一些物品如书架、小书桌、艺术画作等来填满房间，避免空旷感。
+Translation: Generate a picture of the bedroom of a wooden mountain villa to show a quiet bedroom scene. The interior has wooden floors and a soft queen bed, with a dark green tone overall. Through the large floor-to-ceiling windows, you can see that it is drizzling outside. The rainy day is close to night, and the color is darker. The indoor light is very dark, mainly from the natural light outside the window. The room is decorated with a small number of plants to add a natural atmosphere. Add items such as bookshelves, small desks, art paintings, etc. to fill the room and avoid the feeling of emptiness.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 20:21:07] zh -> en
+Source: 生成一张木质山居别墅的卧室图片，展示一个静谧的卧室场景。室内有木地板和柔软的大床，整体呈现暗绿色调。通过大大的落地窗可以看到外面下着绵绵细雨，接近黑夜的阴雨天，色调偏暗。室内光线非常暗，主要来自窗外的自然光。房间内有少量植物装饰，增加自然气息。增加一些物品如书架、小书桌、艺术画作等来填满房间，避免空旷感。
+Translation: Generate a picture of the bedroom of a wooden mountain villa to show a quiet bedroom scene. The interior has wooden floors and a soft queen bed, with a dark green tone overall. Through the large floor-to-ceiling windows, you can see that it is drizzling outside. The rainy day is close to night, and the color is darker. The indoor light is very dark, mainly from the natural light outside the window. The room is decorated with a small number of plants to add a natural atmosphere. Add items such as bookshelves, small desks, art paintings, etc. to fill the room and avoid the feeling of emptiness.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 20:24:23] zh -> en
+Source: 生成一张木质山居别墅的卧室图片，展示一个静谧的卧室场景。室内有木地板和柔软的大床，整体呈现暗绿色调。通过大大的落地窗可以看到外面下着绵绵细雨，接近黑夜的阴雨天，色调偏暗。室内光线非常暗。房间内有少量植物装饰，增加自然气息。增加一些物品如书架、小书桌、艺术画作等来填满房间，避免空旷感。
+Translation: Generate a picture of the bedroom of a wooden mountain villa to show a quiet bedroom scene. The interior has wooden floors and a soft queen bed, with a dark green tone overall. Through the large floor-to-ceiling windows, you can see that it is drizzling outside. The rainy day is close to night, and the color is darker. The light inside is very dark. The room is decorated with a small number of plants to add a natural atmosphere. Add items such as bookshelves, small desks, art paintings, etc. to fill the room and avoid the feeling of emptiness.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 20:26:01] zh -> en
+Source: 生成一张木质山居别墅的卧室图片，展示一个静谧的卧室场景。室内有木地板和柔软的大床，整体呈现暗绿色调。通过大大的落地窗可以看到外面下着绵绵细雨，是连绵起伏的山脉和云雾，以及黑夜的阴雨天，色调偏暗。室内光线非常暗。窗帘遮挡了一半的窗户，房间内有少量植物装饰，增加自然气息。增加一些物品如书架、小书桌、艺术画作等来填满房间，避免空旷感。
+Translation: Generate a picture of the bedroom of a wooden mountain villa to show a quiet bedroom scene. The interior has wooden floors and a soft queen bed, with a dark green tone overall. Through the large floor-to-ceiling windows, you can see the continuous drizzle outside. It is the rolling mountains and clouds, as well as the rainy days at night, and the color is darker. The light inside is very dark. Curtains cover half of the windows, and there are a few plants in the room to add a natural atmosphere. Add items such as bookshelves, small desks, art paintings, etc. to fill the room and avoid the feeling of emptiness.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 20:26:03] zh -> en
+Source: 生成一张木质山居别墅的卧室图片，展示一个静谧的卧室场景。室内有木地板和柔软的大床，整体呈现暗绿色调。通过大大的落地窗可以看到外面下着绵绵细雨，是连绵起伏的山脉和云雾，以及黑夜的阴雨天，色调偏暗。室内光线非常暗。窗帘遮挡了一半的窗户，房间内有少量植物装饰，增加自然气息。增加一些物品如书架、小书桌、艺术画作等来填满房间，避免空旷感。
+Translation: Generate a picture of the bedroom of a wooden mountain villa to show a quiet bedroom scene. The interior has wooden floors and a soft queen bed, with a dark green tone overall. Through the large floor-to-ceiling windows, you can see the continuous drizzle outside. It is the rolling mountains and clouds, as well as the rainy days at night, and the color is darker. The light inside is very dark. Curtains cover half of the windows, and there are a few plants in the room to add a natural atmosphere. Add items such as bookshelves, small desks, art paintings, etc. to fill the room and avoid the feeling of emptiness.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 20:28:44] zh -> en
+Source: 生成一张木质山居别墅的卧室图片，展示一个静谧的卧室场景。室内有木地板和柔软的大床，整体呈现暗绿色调。通过大大的落地窗可以看到外面下着很大的雨，连绵起伏的山脉和云雾，是黑夜的阴雨天，色调偏暗。室内光线非常暗。窗帘遮挡了一半的窗户，房间内有少量植物装饰，增加自然气息。增加一些物品如书架、小书桌、艺术画作等来填满房间
+Translation: Generate a picture of the bedroom of a wooden mountain villa to show a quiet bedroom scene. The interior has wooden floors and a soft queen bed, with a dark green tone overall. Through the large floor-to-ceiling windows, you can see that there is heavy rain outside. The rolling mountains and clouds are cloudy and rainy at night, and the color is darker. The light inside is very dark. Curtains cover half of the windows, and there are a few plants in the room to add a natural atmosphere. Add items such as bookshelves, small desks, art paintings, etc. to fill the room
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 20:29:28] zh -> en
+Source: 生成一张木质山居别墅的卧室图片，展示一个静谧的卧室场景。室内有木地板和柔软的大床，整体呈现暗绿色调。通过大大的落地窗可以看到外面下着很大的雨，连绵起伏的山脉和云雾，是黑夜的阴雨天，色调偏暗。室内光线非常暗。窗帘遮挡了一半的窗户，房间内有少量植物装饰，增加自然气息。增加一些物品如书架、小书桌、艺术画作等来填满房间
+Translation: Generate a picture of the bedroom of a wooden mountain villa to show a quiet bedroom scene. The interior has wooden floors and a soft queen bed, with a dark green tone overall. Through the large floor-to-ceiling windows, you can see that there is heavy rain outside. The rolling mountains and clouds are cloudy and rainy at night, and the color is darker. The light inside is very dark. Curtains cover half of the windows, and there are a few plants in the room to add a natural atmosphere. Add items such as bookshelves, small desks, art paintings, etc. to fill the room
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 20:30:04] zh -> en
+Source: 生成一张木质山居别墅的卧室图片，展示一个静谧的卧室场景。室内有木地板和柔软的大床，整体呈现暗绿色调。通过大大的落地窗可以看到外面下着很大的雨，连绵起伏的山脉和云雾，是黑夜的阴雨天，色调偏暗。室内光线非常暗。窗帘遮挡了一半的窗户，房间内有少量植物装饰，增加自然气息。增加一些物品如书架、小书桌、艺术画作等来填满房间
+Translation: Generate a picture of the bedroom of a wooden mountain villa to show a quiet bedroom scene. The interior has wooden floors and a soft queen bed, with a dark green tone overall. Through the large floor-to-ceiling windows, you can see that there is heavy rain outside. The rolling mountains and clouds are cloudy and rainy at night, and the color is darker. The light inside is very dark. Curtains cover half of the windows, and there are a few plants in the room to add a natural atmosphere. Add items such as bookshelves, small desks, art paintings, etc. to fill the room
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 20:30:11] zh -> en
+Source: 生成一张木质山居别墅的卧室图片，展示一个静谧的卧室场景。室内有木地板和柔软的大床，整体呈现暗绿色调。通过大大的落地窗可以看到外面下着很大的雨，连绵起伏的山脉和云雾，是黑夜的阴雨天，色调偏暗。室内光线非常暗。窗帘遮挡了一半的窗户，房间内有少量植物装饰，增加自然气息。增加一些物品如书架、小书桌、艺术画作等来填满房间
+Translation: Generate a picture of the bedroom of a wooden mountain villa to show a quiet bedroom scene. The interior has wooden floors and a soft queen bed, with a dark green tone overall. Through the large floor-to-ceiling windows, you can see that there is heavy rain outside. The rolling mountains and clouds are cloudy and rainy at night, and the color is darker. The light inside is very dark. Curtains cover half of the windows, and there are a few plants in the room to add a natural atmosphere. Add items such as bookshelves, small desks, art paintings, etc. to fill the room
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 21:08:34] zh -> en
+Source: A handsome man, riding a black horse, was fighting in the arena
+使用动漫的画风，极度二次元，男主，尽可能符合中国审美，二次元
+Translation: A handsome man, riding a black horse, was fighting in the arena
+Use the style of animation, extremely secondary, male lead, try to conform to China aesthetics as much as possible, secondary
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 21:09:35] zh -> en
+Source: a cool handsome young boy,wear earphone mic,wearing school uniform which includes a sweater and a white shirt, cute,hold a cat pastel colors, rich in details, colorful, detailed facial features --ar 3:4 --style raw --profile jktkk9o rsxjf9z cufsr7t --s 750 --niji 6 
+Translation: a cool handsome young boy,wear earphone mic,wearing school uniform which includes a sweater and a white shirt, cute,hold a cat pastel colors, rich in details, colorful, detailed facial features --ar 3:4 --style raw --profile jktkk9o rsxjf9z cufsr7t --s 750 --niji 6 
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 21:09:51] zh -> en
+Source: a cool handsome young boy,wear earphone mic,wearing school uniform which includes a sweater and a white shirt, cute,hold a cat pastel colors, rich in details, colorful, detailed facial features --ar 3:4 --style raw --profile jktkk9o rsxjf9z cufsr7t --s 750 --niji 6 
+Translation: a cool handsome young boy,wear earphone mic,wearing school uniform which includes a sweater and a white shirt, cute,hold a cat pastel colors, rich in details, colorful, detailed facial features --ar 3:4 --style raw --profile jktkk9o rsxjf9z cufsr7t --s 750 --niji 6 
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-14 23:15:29] zh -> en
+Source: 可爱的小猪
+Translation: cute little pig
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-15 00:09:56] zh -> en
+Source: 可可爱爱的小狗
+Translation: Coco Love's Puppy
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-15 00:12:29] zh -> en
+Source: 忘忧草
+Translation: Nepenthe
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-15 08:08:04] zh -> en
+Source: 春日。
+清晨的第一缕阳光如同金色的纱幔一般，透过那层层叠叠、疏密有致的绿叶，倾斜着洒落在地面上。
+小径旁边的灌木丛上，晶莹剔透的露珠宛如一颗颗璀璨的宝石，它们还残留着夜晚寒气的丝丝凉意。微风轻轻拂过，这些露珠便在叶尖上颤颤巍巍地摇晃起来，像是一群顽皮的小精灵在跳着欢快的舞蹈。随着时间的推移，它们终于不堪重负，缓缓地滴落随后没入泥土。
+芙瑞斯特提溜着篮子哼着歌蹦蹦跳跳的向着前方红树莓丛前进。
+Translation: Spring day.
+The first ray of sunshine in the morning is like a golden gauze curtain, passing through the layers of dense green leaves and falling obliquely on the ground.
+On the bushes next to the path, crystal clear dews are like bright gems, and they still leave the coolness of the night. The breeze blew gently, and the dewdrops shook trembling on the tips of the leaves, like a group of naughty elves dancing happily. As time went by, they finally couldn't bear the burden, slowly dripped and then sank into the soil.
+Forrest slipped in the basket and hummed a song as he skipped towards the red raspberry bushes in front of him.
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-15 08:08:40] zh -> en
+Source: 春日。
+清晨的第一缕阳光如同金色的纱幔一般，透过那层层叠叠、疏密有致的绿叶，倾斜着洒落在地面上。
+小径旁边的灌木丛上，晶莹剔透的露珠宛如一颗颗璀璨的宝石，它们还残留着夜晚寒气的丝丝凉意。微风轻轻拂过，这些露珠便在叶尖上颤颤巍巍地摇晃起来，像是一群顽皮的小精灵在跳着欢快的舞蹈。随着时间的推移，它们终于不堪重负，缓缓地滴落随后没入泥土。
+芙瑞斯特提溜着篮子哼着歌蹦蹦跳跳的向着前方红树莓丛前进。二次元，动漫风，美男，正太
+Translation: Spring day.
+The first ray of sunshine in the morning is like a golden gauze curtain, passing through the layers of dense green leaves and falling obliquely on the ground.
+On the bushes next to the path, crystal clear dews are like bright gems, and they still leave the coolness of the night. The breeze blew gently, and the dewdrops shook trembling on the tips of the leaves, like a group of naughty elves dancing happily. As time went by, they finally couldn't bear the burden, slowly dripped and then sank into the soil.
+Forrest slipped in the basket and hummed a song as he skipped towards the red raspberry bushes in front of him. Second yuan, anime style, beautiful man, Zhengtai
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-15 08:09:26] zh -> en
+Source: 春日。
+清晨的第一缕阳光如同金色的纱幔一般，透过那层层叠叠、疏密有致的绿叶，倾斜着洒落在地面上。
+小径旁边的灌木丛上，晶莹剔透的露珠宛如一颗颗璀璨的宝石，二次元，动漫风，美男，正太
+Translation: Spring day.
+The first ray of sunshine in the morning is like a golden gauze curtain, passing through the layers of dense green leaves and falling obliquely on the ground.
+On the bushes next to the path, crystal clear dewdrops are like bright gems. Second dimension, anime style, beautiful man, Zhengtai
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-15 08:09:51] zh -> en
+Source: 二次元，动漫风，美男，正太
+Translation: Second yuan, anime style, beautiful man, Zhengtai
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-15 12:41:10] zh -> en
+Source: 可爱的小狗
+Translation: cute puppy
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-15 12:53:40] zh -> en
+Source: 可爱的小狗
+Translation: cute puppy
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 00:57:43] zh -> en
+Source: 小狗
+Translation: puppy
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 15:21:53] zh -> en
+Source: 可爱的小狗
+Translation: cute puppy
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 15:24:29] zh -> en
+Source: 可爱的小狗
+Translation: cute puppy
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:22:38] zh -> en
+Source: 墨绿色眼睛的人
+Translation: People with dark green eyes
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:22:42] zh -> en
+Source: 一个工人正在切割钢管
+
+Translation: A worker is cutting a steel pipe
+
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:24:07] zh -> en
+Source: 墨绿色眼睛的漂亮的穿着墨绿色衣服的中国女性
+Translation: Beautiful China woman with dark green eyes wearing dark green clothes
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:26:40] zh -> en
+Source: 打篮球的小男孩
+Translation: Little boy playing basketball
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:32:10] zh -> en
+Source: 女生
+Translation: girls
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:33:53] zh -> en
+Source: 生产一个飞天的熊猫
+
+Translation: Produce a flying panda
+
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:34:07] zh -> en
+Source: 包含中国元素的极简logo，用于软件图标，可以用纯色，撞色，线条，图像，不可以使用语言，头像等现实存在的东西
+
+Translation: A minimalist logo containing China elements, used for software icons. Solid colors, contrast colors, lines, images can be used. Language, avatar and other real-life things cannot be used
+
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:34:15] zh -> en
+Source: 动漫风格，一只猪在天上飞，宫崎骏动漫风格
+Translation: Anime style, a pig flying in the sky, Hayao Miyazaki anime style
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:34:16] zh -> en
+Source: 包含中国元素的极简logo，用于软件图标，可以用纯色，撞色，线条，图像，不可以使用语言，头像等现实存在的东西
+
+Translation: A minimalist logo containing China elements, used for software icons. Solid colors, contrast colors, lines, images can be used. Language, avatar and other real-life things cannot be used
+
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:34:53] zh -> en
+Source: 包含中国元素的极简logo，用于软件图标，可以用纯色，撞色，线条，图像，不可以使用语言，头像等现实存在的东西，要求简单，有设计感
+
+Translation: A minimalist logo containing China elements is used for software icons. Solid colors, contrast colors, lines, images can be used. Language, avatar and other real-life things cannot be used. The requirements are simple and have a sense of design
+
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:35:53] zh -> en
+Source: 包含中国元素的极简logo，用于软件图标，可以用纯色，撞色，线条，图像，不可以使用语言，头像等现实存在的东西，要求简单，有设计感，混为一体
+
+Translation: A minimalist logo containing China elements is used for software icons. Solid colors, contrast colors, lines, images can be used. Languages, avatars and other real-life things cannot be used. The requirements are simple, designed, and mixed into one
+
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:40:43] zh -> en
+Source: 动漫风格，一只猪开着二战时候的战斗机，戴着飞行眼罩，穿着飞行服，在天上飞，宫崎骏动漫风格
+Translation: Anime style, a pig is flying a fighter jet from World War II, wearing a flying eye mask, wearing a flying suit, flying in the sky, Hayao Miyazaki anime style
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:41:41] zh -> en
+Source: 用字母F和D设计一个Logo，要求简约，有设计感
+Translation: Designing a Logo using the letters F and D requires simplicity and design sense
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:41:55] zh -> en
+Source: 用字母F和D设计一个Logo，要求简约，有设计感
+Translation: Designing a Logo using the letters F and D requires simplicity and design sense
+Provider: tencent_translate
+-------------------------------------------
+[2025-04-16 16:43:08] zh -> en
+Source: 蓝天白云微风轻拂
+Translation: Blue sky, white clouds, gentle breeze
+Provider: tencent_translate
+-------------------------------------------
